@@ -1,0 +1,146 @@
+{
+    "CategoryTitle": "Deals",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/Weekly%20deals%20englis%2022.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Weekly Deals",
+            "Products": [
+                {
+                    "ItemTitle": "NUTELLA Ferrero Hazelnut Spread with Cocoa Jar 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/80135463.jpg",
+                    "ItemPrice": "QAR8.50",
+                    "ItemBarcode": "80135463"
+                },
+                {
+                    "ItemTitle": "AL MEERA Light Tuna In Sunflower Oil 185g x 4",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6085010153827.jpg",
+                    "ItemPrice": "QAR17.50",
+                    "ItemBarcode": "6085010153827"
+                },
+                {
+                    "ItemTitle": "Pedigree Beef and Vegetables Dry Food for Adult Dog 3kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9334214022932.jpg",
+                    "ItemPrice": "QAR42.75",
+                    "ItemBarcode": "9334214022932"
+                },
+                {
+                    "ItemTitle": "PEDIGREE PUPPY CHCKN&EGG 1.3KG",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310022530708.jpg",
+                    "ItemPrice": "QAR28.75",
+                    "ItemBarcode": "9310022530708"
+                },
+                {
+                    "ItemTitle": "LOTUS Biscoff Biscuit 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5410126716016.jpg",
+                    "ItemPrice": "QAR7.50",
+                    "ItemBarcode": "5410126716016"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "BBQ",
+            "Products": [
+                {
+                    "ItemTitle": "BAYARA Chicken Seasoning 75g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3434410013591.jpg",
+                    "ItemPrice": "QAR5.50",
+                    "ItemBarcode": "3434410013591"
+                },
+                {
+                    "ItemTitle": "SENCOR Fryer Vita 3220WH-MEG2",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8590669216741.jpg",
+                    "ItemPrice": "QAR139",
+                    "ItemBarcode": "8590669216741"
+                },
+                {
+                    "ItemTitle": "KNORR SPICES BBQ CHICKEN MIX 100% NATURAL 32G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690637954610.jpg",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "8690637954610"
+                },
+                {
+                    "ItemTitle": "Bayara Coriander Powder 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3434410002991.jpg",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "3434410002991"
+                },
+                {
+                    "ItemTitle": "BAYARA Cumin Whole 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3434410003080.jpg",
+                    "ItemPrice": "QAR4.75",
+                    "ItemBarcode": "3434410003080"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Colgate Deals",
+            "Products": [
+                {
+                    "ItemTitle": "COLGATE Toothpaste Natural Extracts Charcoal 75ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6920354823152.jpg",
+                    "ItemPrice": "QAR16.50",
+                    "ItemBarcode": "6920354823152"
+                },
+                {
+                    "ItemTitle": "COLGATE TOOTH BRUSH FOAM 2X CUSHION CLEAN",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8718951377998.jpg",
+                    "ItemPrice": "QAR34.50",
+                    "ItemBarcode": "8718951377998"
+                },
+                {
+                    "ItemTitle": "Colgate Plax Peppermint Mouthwash 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8850006304846.jpg",
+                    "ItemPrice": "QAR23.50",
+                    "ItemBarcode": "8850006304846"
+                },
+                {
+                    "ItemTitle": "Colgate Toothbrush Junior+6 Years Minions Extra Soft 1pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8693495051002.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "8693495051002"
+                },
+                {
+                    "ItemTitle": "COLGATE 360 Optic White Toothbrush 1+1Free",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8714789831275.jpg",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "8714789831275"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Camping & Outdoor",
+            "Products": [
+                {
+                    "ItemTitle": "Basil Trash Bag 50Gallons 50's x 3",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5255010201496.jpg",
+                    "ItemPrice": "QAR23",
+                    "ItemBarcode": "5255010201496"
+                },
+                {
+                    "ItemTitle": "THREE STAR Premium Quality Charcoal 80pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/177722110022_1.png",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "177722110022"
+                },
+                {
+                    "ItemTitle": "BBQ Tray Big",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7861101126777_2.jpg",
+                    "ItemPrice": "QAR22",
+                    "ItemBarcode": "7861101126777"
+                },
+                {
+                    "ItemTitle": "BOOSTER CABLE 500AMP",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7861101119816.jpg",
+                    "ItemPrice": "QAR26",
+                    "ItemBarcode": "7861101119816"
+                },
+                {
+                    "ItemTitle": "SUPREME Safari Cooler Basket 47x27x23cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6554896103290.jpg",
+                    "ItemPrice": "QAR35",
+                    "ItemBarcode": "6554896103290"
+                }
+            ]
+        }
+    ]
+}

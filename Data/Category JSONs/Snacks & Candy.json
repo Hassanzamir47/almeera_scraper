@@ -1,0 +1,391 @@
+{
+    "CategoryTitle": "Snacks & Candy",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Biscuits",
+            "Products": [
+                {
+                    "ItemTitle": "MCVITIES Digestive Original 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/50396238.jpg",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "50396238"
+                },
+                {
+                    "ItemTitle": "LOACKER Wafers 45g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/80001249.png",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "80001249"
+                },
+                {
+                    "ItemTitle": "BAHLSEN Biscuit Puff Pastry Slice 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4017100265006.png",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "4017100265006"
+                },
+                {
+                    "ItemTitle": "BAHLSEN Choco Leibniz Biscuit Milk Chocolate 125g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4017100290008.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "4017100290008"
+                },
+                {
+                    "ItemTitle": "BAHLSEN Biscuit Puff Pastry Delice 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4017100370007.png",
+                    "ItemPrice": "QAR7.50",
+                    "ItemBarcode": "4017100370007"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Cookies",
+            "Products": [
+                {
+                    "ItemTitle": "NABISCO CHIPS AHOY Cookies 300g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8410000001013.png",
+                    "ItemPrice": "QAR13.75",
+                    "ItemBarcode": "8410000001013"
+                },
+                {
+                    "ItemTitle": "NABISCO CHIPS AHOY Cookies 128g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8410000002904.png",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "8410000002904"
+                },
+                {
+                    "ItemTitle": "LOTTE PEPERO Biscuit Covered with White Cookie 32g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8801062636358.jpg",
+                    "ItemPrice": "QAR3.25",
+                    "ItemBarcode": "8801062636358"
+                },
+                {
+                    "ItemTitle": "GALAXY Cookie Crumble 40g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5900951247033.png",
+                    "ItemPrice": "QAR3.75",
+                    "ItemBarcode": "5900951247033"
+                },
+                {
+                    "ItemTitle": "RELISH Coffee & Oats Cookies 42g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501025171719.png",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "9501025171719"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Chocolate",
+            "Products": [
+                {
+                    "ItemTitle": "SMARTIES HEXATUBE 38G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/50249466.png",
+                    "ItemPrice": "QAR2.25",
+                    "ItemBarcode": "50249466"
+                },
+                {
+                    "ItemTitle": "FERRERO Raffaello Coconut &Almond Chocolate 30g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/80052487.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "80052487"
+                },
+                {
+                    "ItemTitle": "KINDER BUENO Crispy Creamy Chocolate Bar 43g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/80052760.jpg",
+                    "ItemPrice": "QAR2.25",
+                    "ItemBarcode": "80052760"
+                },
+                {
+                    "ItemTitle": "KINDER Chocolate Bar with Cereals 23.5g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/80177180.jpg",
+                    "ItemPrice": "QAR1.25",
+                    "ItemBarcode": "80177180"
+                },
+                {
+                    "ItemTitle": "KINDER Milk Chocolate Bar 4pcs, 50g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/80177609.jpg",
+                    "ItemPrice": "QAR2.50",
+                    "ItemBarcode": "80177609"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Arabic Sweets",
+            "Products": [
+                {
+                    "ItemTitle": "SEMIRAMIS COCKTAIL SWEET 500G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000001249.jpg",
+                    "ItemPrice": "QAR18.75",
+                    "ItemBarcode": "5100000001249"
+                },
+                {
+                    "ItemTitle": "KIFCO Maamoul Dates 16pcsx20g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/2001959000224.jpg",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "2001959000224"
+                },
+                {
+                    "ItemTitle": "KIFCO Maamoul Dates With Sesame 16pcsx20g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/2001959000248.jpg",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "2001959000248"
+                },
+                {
+                    "ItemTitle": "KIFCO Dates Filled Maamoul With Black Cumin 16pcsx20g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/2001959000231.jpg",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "2001959000231"
+                },
+                {
+                    "ItemTitle": "SARA MAAMOUL DATES 480GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271026211266.jpg",
+                    "ItemPrice": "QAR14.50",
+                    "ItemBarcode": "6271026211266"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Gums & mints",
+            "Products": [
+                {
+                    "ItemTitle": "WRIGLEY Doublemint Gum 5 sticks",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/40099217.jpg",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "40099217"
+                },
+                {
+                    "ItemTitle": "SMINT Xylitol Candy Mint Flavour 6g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/84155634.png",
+                    "ItemPrice": "QAR4.75",
+                    "ItemBarcode": "84155634"
+                },
+                {
+                    "ItemTitle": "SMINT Xylitol Candy Wild Berry Flavour 6g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/84196033.png",
+                    "ItemPrice": "QAR4.50",
+                    "ItemBarcode": "84196033"
+                },
+                {
+                    "ItemTitle": "WRIGLEY EXTRA Sugar-Free Gum Mint 14g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/50173686.jpg",
+                    "ItemPrice": "QAR2.25",
+                    "ItemBarcode": "50173686"
+                },
+                {
+                    "ItemTitle": "EXTRA Pellet Peppermint 14g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/40099361.png",
+                    "ItemPrice": "QAR2.25",
+                    "ItemBarcode": "40099361"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Candy",
+            "Products": [
+                {
+                    "ItemTitle": "FRUIT-TELLA Candy Strawberry Flavour 32.4g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/87108408.jpg",
+                    "ItemPrice": "QAR1.25",
+                    "ItemBarcode": "87108408"
+                },
+                {
+                    "ItemTitle": "FRUIT-TELLA Candy Orange Flavour 32.4g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/87108415.png",
+                    "ItemPrice": "QAR1.25",
+                    "ItemBarcode": "87108415"
+                },
+                {
+                    "ItemTitle": "ALPENLIEBE Milk Chews 36g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/87108781.png",
+                    "ItemPrice": "QAR1.25",
+                    "ItemBarcode": "87108781"
+                },
+                {
+                    "ItemTitle": "STORCK Toffifee Sweets 15pcs, 125g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4014400400007.jpg",
+                    "ItemPrice": "QAR8.50",
+                    "ItemBarcode": "4014400400007"
+                },
+                {
+                    "ItemTitle": "STORCK Toffifee Sweet 48pcs\u00d7400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4014400900576.png",
+                    "ItemPrice": "QAR26.75",
+                    "ItemBarcode": "4014400900576"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Chips & Dips",
+            "Products": [
+                {
+                    "ItemTitle": "OMAN Chips Chili Flavor 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100017413_1.jpg",
+                    "ItemPrice": "QAR5",
+                    "ItemBarcode": "9501100017413"
+                },
+                {
+                    "ItemTitle": "FONZIES CORN SNACKS ORIGINAL CHEESE 28G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9556072180030.jpg",
+                    "ItemPrice": "QAR2",
+                    "ItemBarcode": "9556072180030"
+                },
+                {
+                    "ItemTitle": "FONZIES CORN SNACKS ORIGINAL CHEESE 70G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9556072210034.png",
+                    "ItemPrice": "QAR5",
+                    "ItemBarcode": "9556072210034"
+                },
+                {
+                    "ItemTitle": "TIFFANY BUGLES CHILLY SNAKS 13G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291003068256.png",
+                    "ItemPrice": "QAR0.75",
+                    "ItemBarcode": "6291003068256"
+                },
+                {
+                    "ItemTitle": "FONZIES CORN SNACKS CHICKEN 28G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9556072190039.png",
+                    "ItemPrice": "QAR2",
+                    "ItemBarcode": "9556072190039"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Dried Fruits",
+            "Products": [
+                {
+                    "ItemTitle": "BAYARA Golden Raisin Medium 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3434410057809.jpg",
+                    "ItemPrice": "QAR11",
+                    "ItemBarcode": "3434410057809"
+                },
+                {
+                    "ItemTitle": "SAFE Dried Grapes No.1, 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5255010116639.png",
+                    "ItemPrice": "QAR11",
+                    "ItemBarcode": "5255010116639"
+                },
+                {
+                    "ItemTitle": "HYDEPARK RAISIN 500G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4600010110914.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "4600010110914"
+                },
+                {
+                    "ItemTitle": "DESERT DELIGHTS Natural Medjool Dates 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6254000039377.jpg",
+                    "ItemPrice": "QAR48",
+                    "ItemBarcode": "6254000039377"
+                },
+                {
+                    "ItemTitle": "ELFARES Dates Paste 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/097450409705.jpg",
+                    "ItemPrice": "QAR22",
+                    "ItemBarcode": "097450409705"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Nuts",
+            "Products": [
+                {
+                    "ItemTitle": "BAYARA Almonds Jumbo 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3434410003745.jpg",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "3434410003745"
+                },
+                {
+                    "ItemTitle": "BAYARA Cashews Jumbo 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3434410005299.jpg",
+                    "ItemPrice": "QAR28",
+                    "ItemBarcode": "3434410005299"
+                },
+                {
+                    "ItemTitle": "Modern Food Centre Walnut 300g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000003986.jpg",
+                    "ItemPrice": "QAR27.50",
+                    "ItemBarcode": "5100000003986"
+                },
+                {
+                    "ItemTitle": "Al Rifai Roasted Pistachios Pack 180g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100040010.jpg",
+                    "ItemPrice": "QAR21.75",
+                    "ItemBarcode": "6271100040010"
+                },
+                {
+                    "ItemTitle": "BAYARA Walnuts Jumbo 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3434410057823.jpg",
+                    "ItemPrice": "QAR36",
+                    "ItemBarcode": "3434410057823"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pop Corn & other",
+            "Products": [
+                {
+                    "ItemTitle": "JOLLY TIME The Big Cheez Microwave Popcorn Cheddar Flavour 298g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/28190007791.jpg",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "028190007791"
+                },
+                {
+                    "ItemTitle": "JOLLY TIME Crispy N White Light Microwave Popcorn 255g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/28190007968.jpg",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "028190007968"
+                },
+                {
+                    "ItemTitle": "SAFE Pop Corn 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5255010118817.jpg",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "5255010118817"
+                },
+                {
+                    "ItemTitle": "MODERN FOOD Pop Corn 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4999900005030.jpg",
+                    "ItemPrice": "QAR8.25",
+                    "ItemBarcode": "4999900005030"
+                },
+                {
+                    "ItemTitle": "JOLLYTIME BUTTERLICIOUS POPCORN 298G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/028190007876.png",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "028190007876"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Seeds & other",
+            "Products": [
+                {
+                    "ItemTitle": "AL RIFAI Sunflower Seeds 125g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100041277.jpg",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "6271100041277"
+                },
+                {
+                    "ItemTitle": "AL RIFAI Egyptian Seeds Pack 180g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100041536.jpg",
+                    "ItemPrice": "QAR13.25",
+                    "ItemBarcode": "6271100041536"
+                },
+                {
+                    "ItemTitle": "AL RIFAI Pumpkin Seeds Pack 350g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100041819.jpg",
+                    "ItemPrice": "QAR19",
+                    "ItemBarcode": "6271100041819"
+                },
+                {
+                    "ItemTitle": "AL RIFAI Sunflower Seeds 350g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100043288.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "6271100043288"
+                },
+                {
+                    "ItemTitle": "CHA CHA ROASTED & SPICY 45G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6924187846340.jpg",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "6924187846340"
+                }
+            ]
+        }
+    ]
+}

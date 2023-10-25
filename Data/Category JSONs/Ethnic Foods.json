@@ -1,0 +1,146 @@
+{
+    "CategoryTitle": "Ethnic Foods",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/EthnicBanner_1_1.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "East Asia",
+            "Products": [
+                {
+                    "ItemTitle": "SAMYANG Hot Chicken Flavor Ramen Cup 70g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8801073210776.jpg",
+                    "ItemPrice": "QAR7.25",
+                    "ItemBarcode": "8801073210776"
+                },
+                {
+                    "ItemTitle": "SAMYANG Hot Chicken Flavor Ramen 2X Spicy 5pcsx140g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8801073113428.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "8801073113428"
+                },
+                {
+                    "ItemTitle": "SAMYANG Ramen Cup Hot Chicken 2X Spicy 70g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8801073211223.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "8801073211223"
+                },
+                {
+                    "ItemTitle": "SAMYANG Hot Chicken Flavor Ramen Cup Carbonara 80g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8801073211667.jpg",
+                    "ItemPrice": "QAR9",
+                    "ItemBarcode": "8801073211667"
+                },
+                {
+                    "ItemTitle": "SAMYANG ORIGINAL FLAVOUR RAMEN 120G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/74603005212.jpg",
+                    "ItemPrice": "QAR6.50",
+                    "ItemBarcode": "074603005212"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Indian",
+            "Products": [
+                {
+                    "ItemTitle": "AJWA Banana Chips 125g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4619600327583.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "4619600327583"
+                },
+                {
+                    "ItemTitle": "Ajwa Garlic Murukku Pack 125g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4619600327606.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "4619600327606"
+                },
+                {
+                    "ItemTitle": "Ajwa Groundnut Chikki 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4619600327620_1.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "4619600327620"
+                },
+                {
+                    "ItemTitle": "AJWA Indian Mixture 375g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4619600327613.jpg",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "4619600327613"
+                },
+                {
+                    "ItemTitle": "AJWA PAPPAD 250G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8906054681559.jpg",
+                    "ItemPrice": "QAR5",
+                    "ItemBarcode": "8906054681559"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Philippine",
+            "Products": [
+                {
+                    "ItemTitle": "MY SAN FITA CRACKER PAIL 500GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/750515017108.png",
+                    "ItemPrice": "QAR23.50",
+                    "ItemBarcode": "750515017108"
+                },
+                {
+                    "ItemTitle": "UFC Tamirind Soup Mix 1.4oz",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/014285000532.jpg",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "014285000532"
+                },
+                {
+                    "ItemTitle": "KNORR SINIGANG SAMPALOK MIX ORIG 40GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4800888600806.png",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "4800888600806"
+                },
+                {
+                    "ItemTitle": "MEGA Sardines In Tomato Chili Sauce 155g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/857451000314.png",
+                    "ItemPrice": "QAR2",
+                    "ItemBarcode": "857451000314"
+                },
+                {
+                    "ItemTitle": "MAGGI Magic Sarap 8g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/48025522.jpg",
+                    "ItemPrice": "QAR0.50",
+                    "ItemBarcode": "48025522"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Mexican",
+            "Products": [
+                {
+                    "ItemTitle": "EL SABOR Tortilla Wrap Big 420g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5202175002154.jpg",
+                    "ItemPrice": "QAR12.25",
+                    "ItemBarcode": "5202175002154"
+                },
+                {
+                    "ItemTitle": "MF  Wrap Tortillas 260g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100330678.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "6271100330678"
+                },
+                {
+                    "ItemTitle": "MF Wrap Tortillas 8Pcs, 320g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100330371.jpg",
+                    "ItemPrice": "QAR11.25",
+                    "ItemBarcode": "6271100330371"
+                },
+                {
+                    "ItemTitle": "MF Tortilla Bread 6pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100330364.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "6271100330364"
+                },
+                {
+                    "ItemTitle": "MF Wrap Tortillas Multigrain 8Pcs, 320g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271100330487.jpg",
+                    "ItemPrice": "QAR13",
+                    "ItemBarcode": "6271100330487"
+                }
+            ]
+        }
+    ]
+}

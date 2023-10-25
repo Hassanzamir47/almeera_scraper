@@ -1,0 +1,216 @@
+{
+    "CategoryTitle": "Dairy & Eggs",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/Dairy%20Products_1.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Milk",
+            "Products": [
+                {
+                    "ItemTitle": "RAINBOW Evaporated Milk Original 14ml x 10",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/87162035.png",
+                    "ItemPrice": "QAR4.75",
+                    "ItemBarcode": "87162035"
+                },
+                {
+                    "ItemTitle": "RAINBOW Evaporated Milk Original 170g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8716200674942.jpg",
+                    "ItemPrice": "QAR2.50",
+                    "ItemBarcode": "8716200674942"
+                },
+                {
+                    "ItemTitle": "NESTLE Sweetened Condensed Milk 450g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7613036425292.jpg",
+                    "ItemPrice": "QAR14",
+                    "ItemBarcode": "7613036425292"
+                },
+                {
+                    "ItemTitle": "NESTLE SCM CARAMEL 397G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7613036425322.jpg",
+                    "ItemPrice": "QAR9.25",
+                    "ItemBarcode": "7613036425322"
+                },
+                {
+                    "ItemTitle": "RAINBOW Evaporated Milk Cardamom 170g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8716200675048.jpg",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "8716200675048"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Cheese",
+            "Products": [
+                {
+                    "ItemTitle": "LA VACHE QUI RIT Cheese 16 Portion 240G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3073780574242.png",
+                    "ItemPrice": "QAR8.25",
+                    "ItemBarcode": "3073780574242"
+                },
+                {
+                    "ItemTitle": "LA VACHE QUI RIT  Cheese 24-Portion 360g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3073780574310.png",
+                    "ItemPrice": "QAR12",
+                    "ItemBarcode": "3073780574310"
+                },
+                {
+                    "ItemTitle": "REGAL PICON CHEESE 8 PORTION 120g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3251350126002.png",
+                    "ItemPrice": "QAR4",
+                    "ItemBarcode": "3251350126002"
+                },
+                {
+                    "ItemTitle": "REGAL PICON CHEESE 16 PORTION 240g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3251350161003.png",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "3251350161003"
+                },
+                {
+                    "ItemTitle": "REGAL PICON Cheese 24-Portion 360g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3251350162000.png",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "3251350162000"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Butter & Margarines",
+            "Products": [
+                {
+                    "ItemTitle": "LURPAK Butter Unsalted 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5740900864108.jpg",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "5740900864108"
+                },
+                {
+                    "ItemTitle": "LURPAK Soft Butter Salted 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5740900806306.jpg",
+                    "ItemPrice": "QAR16",
+                    "ItemBarcode": "5740900806306"
+                },
+                {
+                    "ItemTitle": "LURPAK Butter Spreadable Unsalted 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5740900806405.jpg",
+                    "ItemPrice": "QAR16",
+                    "ItemBarcode": "5740900806405"
+                },
+                {
+                    "ItemTitle": "LURPAK Butter Salted 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5740900861107.jpg",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "5740900861107"
+                },
+                {
+                    "ItemTitle": "LURPAK Butter Salted 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5740900861305.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "5740900861305"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Cream",
+            "Products": [
+                {
+                    "ItemTitle": "FOSTER CLARKS Whipped Topping Mix 72g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101097287.png",
+                    "ItemPrice": "QAR6.50",
+                    "ItemBarcode": "5352101097287"
+                },
+                {
+                    "ItemTitle": "KENTON Whipped Topping 150g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690547101203.png",
+                    "ItemPrice": "QAR7.25",
+                    "ItemBarcode": "8690547101203"
+                },
+                {
+                    "ItemTitle": "BALADNA Fresh Cream 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291107053783.jpg",
+                    "ItemPrice": "QAR4",
+                    "ItemBarcode": "6291107053783"
+                },
+                {
+                    "ItemTitle": "BASKIN ROBBINS WHIPPED LIGHT CREAM 425G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/40900400265.jpg",
+                    "ItemPrice": "QAR26",
+                    "ItemBarcode": "040900400265"
+                },
+                {
+                    "ItemTitle": "Puck Whipping Cream Can 250ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281048105702.jpg",
+                    "ItemPrice": "QAR17.25",
+                    "ItemBarcode": "6281048105702"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Eggs",
+            "Products": [
+                {
+                    "ItemTitle": "AL WAHA Fresh White Eggs 30's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4900001005959.png",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "4900001005959"
+                },
+                {
+                    "ItemTitle": "AL WAHA Eggs 15's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4900001006017.png",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "4900001006017"
+                },
+                {
+                    "ItemTitle": "AL DANA WHITE EGGS LARGE 15PCS",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100101105.png",
+                    "ItemPrice": "QAR14.25",
+                    "ItemBarcode": "9501100101105"
+                },
+                {
+                    "ItemTitle": "AL ZAIN Fresh White Eggs Large 6's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6297000689159.png",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "6297000689159"
+                },
+                {
+                    "ItemTitle": "AL BAYYAD Fresh White Eggs 30's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/258475956371.jpg",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "258475956371"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Desserts",
+            "Products": [
+                {
+                    "ItemTitle": "SARA 1 MINI ROLL STRAWBERRY 20g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271005019913.jpg",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "6271005019913"
+                },
+                {
+                    "ItemTitle": "SARA 1 MINI ROLL VANILLA 25g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271005019937.jpg",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "6271005019937"
+                },
+                {
+                    "ItemTitle": "COCON PUDDING ASSORTED 80g X 6",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9556437002403.png",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "9556437002403"
+                },
+                {
+                    "ItemTitle": "SARA POUND CAKE MARBLE 300GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271005019470.png",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "6271005019470"
+                },
+                {
+                    "ItemTitle": "RAWA CUSTARD VANILLA 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9504000171278.jpg",
+                    "ItemPrice": "QAR1.50",
+                    "ItemBarcode": "9504000171278"
+                }
+            ]
+        }
+    ]
+}

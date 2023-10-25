@@ -1,0 +1,204 @@
+{
+    "CategoryTitle": "Smartphones & Wearables",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/Appliances_3_1.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Smartphones",
+            "Products": [
+                {
+                    "ItemTitle": "SAMSUNG Mobile Galaxy S22 5G 256GB  SMS901EZKGMEA Phantom Black",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/sm-s901_galaxys22_front_phantomblack_211122-min.jpg",
+                    "ItemPrice": "QAR3429",
+                    "ItemBarcode": "8806094018431"
+                },
+                {
+                    "ItemTitle": "HUAWEI Mobile P50 POCKET 12GB 512GB Premium Gold",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/HUAWEI%20P50%201.jpg",
+                    "ItemPrice": "QAR6299",
+                    "ItemBarcode": "6941487249497"
+                },
+                {
+                    "ItemTitle": "SAMSUNG Mobile Galaxy A12 128GB Blue SMA127FZBHMEA",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806092692947_1.jpg",
+                    "ItemPrice": "QAR629",
+                    "ItemBarcode": "8806092692947"
+                },
+                {
+                    "ItemTitle": "XIAOMI Mobile Redmi Note 11S 6Gb 128Gb Pearl White",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6934177771385.jpg",
+                    "ItemPrice": "QAR939",
+                    "ItemBarcode": "6934177771385"
+                },
+                {
+                    "ItemTitle": "SAMSUNG Mobile Galaxy A22 5G 64GB Violet",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806092510760.jpg",
+                    "ItemPrice": "QAR799",
+                    "ItemBarcode": "8806092510760"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Smart Watch",
+            "Products": [
+                {
+                    "ItemTitle": "APPLE Watch S7 GPS 41MM Blue Aluminum Case MKN13LL/A",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/194252590362.jpg",
+                    "ItemPrice": "QAR1349",
+                    "ItemBarcode": "194252590362"
+                },
+                {
+                    "ItemTitle": "HUAWEI Watch GT3 46MM Black",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6941487224401.jpg",
+                    "ItemPrice": "QAR999",
+                    "ItemBarcode": "6941487224401"
+                },
+                {
+                    "ItemTitle": "SAMSUNG Galaxy Watch 5 44MM Silver R910NZSA",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806094512359.jpg",
+                    "ItemPrice": "QAR749",
+                    "ItemBarcode": "8806094512359"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Tablets",
+            "Products": [
+                {
+                    "ItemTitle": "APPLE IPAD MINI 64GB WIFI STARLIGHT",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/ipad-mini-select-wifi-starlight-202109.png",
+                    "ItemPrice": "QAR2129",
+                    "ItemBarcode": "100000018674"
+                },
+                {
+                    "ItemTitle": "LENOVO Tablet 10.1\" HD 4GB 64GB 4G X306X ZA6V0152AE",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/LENOVO-TAB-X306X-ZA6V0152AE20%281%29.jpg",
+                    "ItemPrice": "QAR899",
+                    "ItemBarcode": "195042522242"
+                },
+                {
+                    "ItemTitle": "LENOVO TABLET 10.1\" HD M10 2GB 32GB 4G X505X ZA4K0026AE",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/194632029185.jpg",
+                    "ItemPrice": "QAR649",
+                    "ItemBarcode": "194632029185"
+                },
+                {
+                    "ItemTitle": "SAMSUNG Galaxy Tablet A7 8.7\"  32GB LITE LTE Gray SMT225NZALMEA",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806092276352.jpg",
+                    "ItemPrice": "QAR449",
+                    "ItemBarcode": "8806092276352"
+                },
+                {
+                    "ItemTitle": "SAMSUNG Galaxy Tablet A7 8.7\"  32GB LITE LTE Silver SMT225NZSLMEA",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806092276345.jpg",
+                    "ItemPrice": "QAR449",
+                    "ItemBarcode": "8806092276345"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Blutooth Speakers",
+            "Products": [
+                {
+                    "ItemTitle": "Apple Homepod Mini Space Grey MY5G2ZP/A",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/190199710498.jpg",
+                    "ItemPrice": "QAR539",
+                    "ItemBarcode": "190199710498"
+                },
+                {
+                    "ItemTitle": "JBL Speaker Portable Waterproof Clip4 Black JBLCLIP4BLK",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6925281979279.jpg",
+                    "ItemPrice": "QAR209",
+                    "ItemBarcode": "6925281979279"
+                },
+                {
+                    "ItemTitle": "JBL Bluetooth Speaker Black GO3",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6925281975615.jpg",
+                    "ItemPrice": "QAR139",
+                    "ItemBarcode": "6925281975615"
+                },
+                {
+                    "ItemTitle": "SONY Earphones MDR-EX15APWZ",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4905524940800.jpg",
+                    "ItemPrice": "QAR35",
+                    "ItemBarcode": "4905524940800"
+                },
+                {
+                    "ItemTitle": "SONY Earphones MDR-EX15APBZ",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4905524931242.jpg",
+                    "ItemPrice": "QAR35",
+                    "ItemBarcode": "4905524931242"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Headphones & Earphones",
+            "Products": [
+                {
+                    "ItemTitle": "Awei Earphone Bluetooth True Wireless Black T13",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6954284014717.jpg",
+                    "ItemPrice": "QAR49",
+                    "ItemBarcode": "6954284014717"
+                },
+                {
+                    "ItemTitle": "JBL Earphones Blue T110",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6925281918940.jpg",
+                    "ItemPrice": "QAR30",
+                    "ItemBarcode": "6925281918940"
+                },
+                {
+                    "ItemTitle": "SENCOR Headphone Wireless (30hrs playing time) SEP 710 BT",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8590669301041.jpg",
+                    "ItemPrice": "QAR59",
+                    "ItemBarcode": "8590669301041"
+                },
+                {
+                    "ItemTitle": "LOGITECH USB Headset H340",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5099206038844.jpg",
+                    "ItemPrice": "QAR99",
+                    "ItemBarcode": "5099206038844"
+                },
+                {
+                    "ItemTitle": "SAMSUNG Buds PRO Phantom Black-SM-R190",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806090979576.jpg",
+                    "ItemPrice": "QAR399",
+                    "ItemBarcode": "8806090979576"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Mobile Accessories",
+            "Products": [
+                {
+                    "ItemTitle": "APPLE Lighting Cable TYPE-C MQGJ2",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/41PhXvbzMWS._AC_SL1000_.jpg",
+                    "ItemPrice": "QAR99",
+                    "ItemBarcode": "777020944"
+                },
+                {
+                    "ItemTitle": "APPLE LIGHTNING USB CABLE 1M MQUE2",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/777020485.jpg",
+                    "ItemPrice": "QAR99",
+                    "ItemBarcode": "777020485"
+                },
+                {
+                    "ItemTitle": "APPLE PENCIL GEN 2ND MU8F2",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/777022448.jpg",
+                    "ItemPrice": "QAR599",
+                    "ItemBarcode": "777022448"
+                },
+                {
+                    "ItemTitle": "SAMSUNG TRVL ADAPTER SUPER FAST CHARGING 25 W",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/770255661.jpg",
+                    "ItemPrice": "QAR99",
+                    "ItemBarcode": "770255661"
+                },
+                {
+                    "ItemTitle": "SAMSUNG USB C HEADSET JACK ADAPTOR 3.5 MM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/777026512.jpg",
+                    "ItemPrice": "QAR54",
+                    "ItemBarcode": "777026512"
+                }
+            ]
+        }
+    ]
+}

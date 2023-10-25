@@ -1,0 +1,216 @@
+{
+    "CategoryTitle": "Electronics & Appliances",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/Appliances_3.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "TVs and Accessories",
+            "Products": [
+                {
+                    "ItemTitle": "SKYWORTH TV 65\"UHD 4K Smart Android 10 65Suc8300",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4895018232149.jpg",
+                    "ItemPrice": "QAR1149",
+                    "ItemBarcode": "4895018232149"
+                },
+                {
+                    "ItemTitle": "SKYWORTH TV UHD 70\" 4K Smart Android 10 70SUC9400",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4895018233986_2.jpg",
+                    "ItemPrice": "QAR2899",
+                    "ItemBarcode": "4895018233986"
+                },
+                {
+                    "ItemTitle": "TCL TV 50\" UHD SMART ANDROID 50P615",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6921732869526.jpg",
+                    "ItemPrice": "QAR1099",
+                    "ItemBarcode": "6921732869526"
+                },
+                {
+                    "ItemTitle": "VOGELS TV BRACKET THIN 42\"-100\" 550 TURN 120",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8712285335082.jpg",
+                    "ItemPrice": "QAR1799",
+                    "ItemBarcode": "8712285335082"
+                },
+                {
+                    "ItemTitle": "VOGELS TV BRACKET WALL 32\"-55\" 3245 TURN 180",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8712285335426.jpg",
+                    "ItemPrice": "QAR849",
+                    "ItemBarcode": "8712285335426"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Small Appliances",
+            "Products": [
+                {
+                    "ItemTitle": "GEEPAS Kettle GK5466",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6294010888107.jpg",
+                    "ItemPrice": "QAR39",
+                    "ItemBarcode": "6294010888107"
+                },
+                {
+                    "ItemTitle": "BLACK&DECKER BLENDER 400W BX4030-B5",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5035048715291.jpg",
+                    "ItemPrice": "QAR135",
+                    "ItemBarcode": "5035048715291"
+                },
+                {
+                    "ItemTitle": "BRAUN Shaver 310 Black/Blue 310",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4210201163367.jpg",
+                    "ItemPrice": "QAR209",
+                    "ItemBarcode": "4210201163367"
+                },
+                {
+                    "ItemTitle": "BLACK&DECKER Juice Extractor 400W JE400-B5",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5035048442883.jpg",
+                    "ItemPrice": "QAR135",
+                    "ItemBarcode": "5035048442883"
+                },
+                {
+                    "ItemTitle": "SHARP Microwave Oven 62L R-562CTST",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4974019843612.png",
+                    "ItemPrice": "QAR469",
+                    "ItemBarcode": "4974019843612"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Large Appliances",
+            "Products": [
+                {
+                    "ItemTitle": "LG Refrigerator Single-Door 190L GR-231ALLB",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806098023806.png",
+                    "ItemPrice": "QAR849",
+                    "ItemBarcode": "8806098023806"
+                },
+                {
+                    "ItemTitle": "LG Washing Machine Top Load 24KG T2472EFHSTL",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806098309528.png",
+                    "ItemPrice": "QAR3999",
+                    "ItemBarcode": "8806098309528"
+                },
+                {
+                    "ItemTitle": "LG Washer Dryer 9KG Silver F4V5VGP2T",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8806098564279.png",
+                    "ItemPrice": "QAR3499",
+                    "ItemBarcode": "8806098564279"
+                },
+                {
+                    "ItemTitle": "SAMSUNG REFRIGERATOR 450LTR RT45K5000WW",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8801643804169.png",
+                    "ItemPrice": "QAR1899",
+                    "ItemBarcode": "8801643804169"
+                },
+                {
+                    "ItemTitle": "SAMSUNG Refrigerator Top Mount Freezer 550L RT50K5030S8",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8801643804183.png",
+                    "ItemPrice": "QAR1499",
+                    "ItemBarcode": "8801643804183"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Computers, Laptops & Accessories",
+            "Products": [
+                {
+                    "ItemTitle": "HP Laptop 14\" Touch DQ2038MS I3-1115G4 8GB 256SSD WIN10",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/195161858635.jpg",
+                    "ItemPrice": "QAR1699",
+                    "ItemBarcode": "195161858635"
+                },
+                {
+                    "ItemTitle": "HP 15.6\" Value Backpack K0B39AA",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/888793502013.jpg",
+                    "ItemPrice": "QAR85",
+                    "ItemBarcode": "888793502013"
+                },
+                {
+                    "ItemTitle": "Casio Bundle Label KL-130-W-DH WITH XR-9X1 TAPE",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5420035212196.jpg",
+                    "ItemPrice": "QAR269",
+                    "ItemBarcode": "5420035212196"
+                },
+                {
+                    "ItemTitle": "Logitech Keyboard Wireless Combo MK295 920-009801",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5099206092440.jpg",
+                    "ItemPrice": "QAR199",
+                    "ItemBarcode": "5099206092440"
+                },
+                {
+                    "ItemTitle": "Elvision Keyboard KB06",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/1068856885027.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "1068856885027"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Video Games & Consoles",
+            "Products": [
+                {
+                    "ItemTitle": "SONY PS5 Video Game Spiderman Miles Morales",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/711719838029.jpg",
+                    "ItemPrice": "QAR215",
+                    "ItemBarcode": "0711719838029"
+                },
+                {
+                    "ItemTitle": "SONY PS5 VIDEO GAME SPIDERMAN ULTIMATE EDITION",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/711719803898.jpg",
+                    "ItemPrice": "QAR320",
+                    "ItemBarcode": "0711719803898"
+                },
+                {
+                    "ItemTitle": "SONY Dual Sense Wireless Controller",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/711719399803.jpg",
+                    "ItemPrice": "QAR319",
+                    "ItemBarcode": "0711719399803"
+                },
+                {
+                    "ItemTitle": "SONY PULSE 3D WIRELESS HEADSET",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/711719387800.jpg",
+                    "ItemPrice": "QAR449",
+                    "ItemBarcode": "0711719387800"
+                },
+                {
+                    "ItemTitle": "SONY Dual Sense Wireless Controller Black",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/711719827795.jpg",
+                    "ItemPrice": "QAR319",
+                    "ItemBarcode": "711719827795"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Audio, Radio & Speakers",
+            "Products": [
+                {
+                    "ItemTitle": "JBL Headphone Wired Gaming Black Quantum100",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6925281969621.jpg",
+                    "ItemPrice": "QAR159",
+                    "ItemBarcode": "6925281969621"
+                },
+                {
+                    "ItemTitle": "HP PAVILION GAM 400 Headset Green 4BX31AA",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/192545432504.jpg",
+                    "ItemPrice": "QAR169",
+                    "ItemBarcode": "192545432504"
+                },
+                {
+                    "ItemTitle": "LOGITECH Headset PC LOGITECH Stereo-H111",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5099206057340.jpg",
+                    "ItemPrice": "QAR65",
+                    "ItemBarcode": "5099206057340"
+                },
+                {
+                    "ItemTitle": "MEDIACOM Soundbar MCI SB01",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6924072372008.jpg",
+                    "ItemPrice": "QAR409",
+                    "ItemBarcode": "6924072372008"
+                },
+                {
+                    "ItemTitle": "HP Headset 2800 S Gold 2AP94AA",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/191628034703.jpg",
+                    "ItemPrice": "QAR89",
+                    "ItemBarcode": "191628034703"
+                }
+            ]
+        }
+    ]
+}

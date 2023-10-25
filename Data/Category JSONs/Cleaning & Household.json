@@ -1,0 +1,356 @@
+{
+    "CategoryTitle": "Cleaning & Household",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/General%20Cleaning_2.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Air Fresheners",
+            "Products": [
+                {
+                    "ItemTitle": "AIRWICK FMATIC MAG&CHERY 250ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6295120000076.jpg",
+                    "ItemPrice": "QAR28",
+                    "ItemBarcode": "6295120000076"
+                },
+                {
+                    "ItemTitle": "Air Wick Fresh Matic Max Air Fresher Spray Sparkling Citrus 250ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3059943009066.jpg",
+                    "ItemPrice": "QAR28",
+                    "ItemBarcode": "3059943009066"
+                },
+                {
+                    "ItemTitle": "AIR WICK Air Fresher Spray Lavender 300ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5000146980162.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "5000146980162"
+                },
+                {
+                    "ItemTitle": "DELAIMI AIR FRESHNER ZAFFA 500ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6297000022628.jpg",
+                    "ItemPrice": "QAR24.75",
+                    "ItemBarcode": "6297000022628"
+                },
+                {
+                    "ItemTitle": "DELAIMI AIR FRESHNER MSHMOOM 500ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6297000022659.jpg",
+                    "ItemPrice": "QAR24.75",
+                    "ItemBarcode": "6297000022659"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Bathroom Cleaning",
+            "Products": [
+                {
+                    "ItemTitle": "KLEEN OFF BLUE QUAD RIM BLOCK 50GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5000185106936.jpg",
+                    "ItemPrice": "QAR13.25",
+                    "ItemBarcode": "5000185106936"
+                },
+                {
+                    "ItemTitle": "JIF Ultra Fast Bathroom Cleaner 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690637674303.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "8690637674303"
+                },
+                {
+                    "ItemTitle": "VIKING Drain Opener Gel 1L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8692900633017.png",
+                    "ItemPrice": "QAR11.50",
+                    "ItemBarcode": "8692900633017"
+                },
+                {
+                    "ItemTitle": "WHITE HORSE Flush Clean 1L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7798049249841.jpg",
+                    "ItemPrice": "QAR6.25",
+                    "ItemBarcode": "7798049249841"
+                },
+                {
+                    "ItemTitle": "HARPIC Original Toilet Cleaner 750 ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6001106114633.png",
+                    "ItemPrice": "QAR15.75",
+                    "ItemBarcode": "6001106114633"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Kitchen Cleaning",
+            "Products": [
+                {
+                    "ItemTitle": "FORENT Oven Cleaner 300ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8004050030545.png",
+                    "ItemPrice": "QAR13.75",
+                    "ItemBarcode": "8004050030545"
+                },
+                {
+                    "ItemTitle": "PEARL Dishwashing Liquid Lemon 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100110619.jpg",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "9501100110619"
+                },
+                {
+                    "ItemTitle": "PEARL Dishwashing Liquid Lemon 1L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100110626_1.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "9501100110626"
+                },
+                {
+                    "ItemTitle": "LU Dishwashing Liquid with Lemon 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100112811.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "9501100112811"
+                },
+                {
+                    "ItemTitle": "LU Dishwashing Liquid with Lemon 1L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100112828.jpg",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "9501100112828"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "General",
+            "Products": [
+                {
+                    "ItemTitle": "PEARL Antiseptic Disinfectant 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100111012.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "9501100111012"
+                },
+                {
+                    "ItemTitle": "PEARL Antiseptic Disinfectant 750ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100111029.jpg",
+                    "ItemPrice": "QAR15.25",
+                    "ItemBarcode": "9501100111029"
+                },
+                {
+                    "ItemTitle": "JAWHARAH Antiseptic Disinfectant Bottle 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100111135.jpg",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "9501100111135"
+                },
+                {
+                    "ItemTitle": "JAWHARAH Antiseptic Disinfectant Bottle 750ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100111142.jpg",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "9501100111142"
+                },
+                {
+                    "ItemTitle": "PEARL Liquid Disinfectant Pine Scent 4L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100111227.png",
+                    "ItemPrice": "QAR17",
+                    "ItemBarcode": "9501100111227"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Laundry",
+            "Products": [
+                {
+                    "ItemTitle": "Dr.Beckmann Roll On Stain Remover 75ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5010287377004.jpg",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "5010287377004"
+                },
+                {
+                    "ItemTitle": "BAHAR Detergent Powder 120g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501030111014.png",
+                    "ItemPrice": "QAR1.50",
+                    "ItemBarcode": "9501030111014"
+                },
+                {
+                    "ItemTitle": "PEARL Detergent Powder Low Foam 6kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100110268.png",
+                    "ItemPrice": "QAR53.50",
+                    "ItemBarcode": "9501100110268"
+                },
+                {
+                    "ItemTitle": "PEARL Detergent Powder High Foam 25kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100110046.png",
+                    "ItemPrice": "QAR139.25",
+                    "ItemBarcode": "9501100110046"
+                },
+                {
+                    "ItemTitle": "PEARL Detergent Powder Low Foam Front Load 25kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100110220.jpg",
+                    "ItemPrice": "QAR145",
+                    "ItemBarcode": "9501100110220"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Rolls & Tissues",
+            "Products": [
+                {
+                    "ItemTitle": "AL MADINA FACIAL TISSUE 200S",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291046110097.png",
+                    "ItemPrice": "QAR4.50",
+                    "ItemBarcode": "6291046110097"
+                },
+                {
+                    "ItemTitle": "PURA Toilet Rolls 10's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8000032001015.png",
+                    "ItemPrice": "QAR14.25",
+                    "ItemBarcode": "8000032001015"
+                },
+                {
+                    "ItemTitle": "PURA Toilet Rolls 8rolls",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8000032001145.jpg",
+                    "ItemPrice": "QAR13",
+                    "ItemBarcode": "8000032001145"
+                },
+                {
+                    "ItemTitle": "PURA Kitchen Roll 2's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8000032010635.png",
+                    "ItemPrice": "QAR8.50",
+                    "ItemBarcode": "8000032010635"
+                },
+                {
+                    "ItemTitle": "DOHA Jumbo Roll 300M",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8044190202778.png",
+                    "ItemPrice": "QAR14.25",
+                    "ItemBarcode": "8044190202778"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Insecticides",
+            "Products": [
+                {
+                    "ItemTitle": "PIF PAF Cockroach & Ant Killer Odourless 300ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6001106101725.jpg",
+                    "ItemPrice": "QAR13.50",
+                    "ItemBarcode": "6001106101725"
+                },
+                {
+                    "ItemTitle": "Pif Paf Mosquito & Fly Killer Odourless 600ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6001106106386.jpg",
+                    "ItemPrice": "QAR14.75",
+                    "ItemBarcode": "6001106106386"
+                },
+                {
+                    "ItemTitle": "PIF PAF Cockroach Spray 400ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6001106113926.png",
+                    "ItemPrice": "QAR16",
+                    "ItemBarcode": "6001106113926"
+                },
+                {
+                    "ItemTitle": "Pif Paf Cockroach & Ant Killer High Performance 400ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9300701023270.png",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "9300701023270"
+                },
+                {
+                    "ItemTitle": "Pif Paf Cockroach & Ant Killer High Performance 600ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9300701023287.png",
+                    "ItemPrice": "QAR18.75",
+                    "ItemBarcode": "9300701023287"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Utilities",
+            "Products": [
+                {
+                    "ItemTitle": "ARIX Cleaning Sponge Heavy Duty 3's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8008990001276.png",
+                    "ItemPrice": "QAR2.25",
+                    "ItemBarcode": "8008990001276"
+                },
+                {
+                    "ItemTitle": "VILEDA S Morbida Broom + Stick",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4023103083912.jpg",
+                    "ItemPrice": "QAR32",
+                    "ItemBarcode": "4023103083912"
+                },
+                {
+                    "ItemTitle": "VILEDA  Standard Broom + Stick",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4023103086869.jpg",
+                    "ItemPrice": "QAR25",
+                    "ItemBarcode": "4023103086869"
+                },
+                {
+                    "ItemTitle": "MAOG Household Gloves Medium",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281015007244.png",
+                    "ItemPrice": "QAR17",
+                    "ItemBarcode": "6281015007244"
+                },
+                {
+                    "ItemTitle": "VILEDA Mop Bucket & Wringer Oval",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4023103085800.jpg",
+                    "ItemPrice": "QAR49",
+                    "ItemBarcode": "4023103085800"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Shoe Care",
+            "Products": [
+                {
+                    "ItemTitle": "Kiwi Shoe Shine Sponge Black 7ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690784616881.jpg",
+                    "ItemPrice": "QAR12.50",
+                    "ItemBarcode": "8690784616881"
+                },
+                {
+                    "ItemTitle": "Sanytol Shoes Disinfectant 150ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3045200715009.jpg",
+                    "ItemPrice": "QAR18.75",
+                    "ItemBarcode": "3045200715009"
+                },
+                {
+                    "ItemTitle": "YAK Shoe Polish Black",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8411660292353.jpg",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "8411660292353"
+                },
+                {
+                    "ItemTitle": "KIWI LIQ SHOE POLISH BROWN 75ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690784617338.jpg",
+                    "ItemPrice": "QAR11.75",
+                    "ItemBarcode": "8690784617338"
+                },
+                {
+                    "ItemTitle": "Yak Shoe Polish Brown 1pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8411660292032.jpg",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "8411660292032"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Household Essentials",
+            "Products": [
+                {
+                    "ItemTitle": "ENERGIZER Battery MAX ALK AA BP4 135322621",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8888021200126.png",
+                    "ItemPrice": "QAR21",
+                    "ItemBarcode": "8888021200126"
+                },
+                {
+                    "ItemTitle": "ALTECO Super Glue 3g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8888299758404_1.png",
+                    "ItemPrice": "QAR2",
+                    "ItemBarcode": "8888299758404"
+                },
+                {
+                    "ItemTitle": "PHILIPS ECOHOME BULB18W E27 WW",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8718291229773.png",
+                    "ItemPrice": "QAR14",
+                    "ItemBarcode": "8718291229773"
+                },
+                {
+                    "ItemTitle": "PHILIPS MAS LED BULB 5.5-50W 2700K MR16 36D",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8718696476031.png",
+                    "ItemPrice": "QAR35",
+                    "ItemBarcode": "8718696476031"
+                },
+                {
+                    "ItemTitle": "DURA Masking Tape Nylon 100yards",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7861101117881.png",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "7861101117881"
+                }
+            ]
+        }
+    ]
+}

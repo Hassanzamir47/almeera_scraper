@@ -1,0 +1,216 @@
+{
+    "CategoryTitle": "Delicatessen",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Ready Meals",
+            "Products": [
+                {
+                    "ItemTitle": "RAVIOLI RICOTTA & SPINACH FRESH PASTA 250GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4618439370685.jpg",
+                    "ItemPrice": "QAR19.75",
+                    "ItemBarcode": "4618439370685"
+                },
+                {
+                    "ItemTitle": "RAVIOLI FOUR CHEESE FRESH PASTA 250GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4618439370708.jpg",
+                    "ItemPrice": "QAR20.75",
+                    "ItemBarcode": "4618439370708"
+                },
+                {
+                    "ItemTitle": "TORTELLINI ANG B F FR PST250G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4618439370920.jpg",
+                    "ItemPrice": "QAR21.75",
+                    "ItemBarcode": "4618439370920"
+                },
+                {
+                    "ItemTitle": "Ourhome Rice Cake Topokki 500G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8809257825617.jpg",
+                    "ItemPrice": "QAR15.50",
+                    "ItemBarcode": "8809257825617"
+                },
+                {
+                    "ItemTitle": "MEZETE Hummus Gourmet Classic 215g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/617241010943.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "617241010943"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Cheese",
+            "Products": [
+                {
+                    "ItemTitle": "SINIORA SMOKED TURKEY BREAST JORDAN",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913506000000.jpg",
+                    "ItemPrice": "QAR64.75",
+                    "ItemBarcode": "9913506000000"
+                },
+                {
+                    "ItemTitle": "HAJDU COW  KASHKAVAL CHEESE HUNGARY",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913507000000.png",
+                    "ItemPrice": "QAR59.75",
+                    "ItemBarcode": "9913507000000"
+                },
+                {
+                    "ItemTitle": "AWAFI? MOZZARELLA? CHEESE QATAR",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913522000000.jpg",
+                    "ItemPrice": "QAR30.75",
+                    "ItemBarcode": "9913522000000"
+                },
+                {
+                    "ItemTitle": "CHEESE FETA  DENMARK",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913553000000.jpg",
+                    "ItemPrice": "QAR38.75",
+                    "ItemBarcode": "9913553000000"
+                },
+                {
+                    "ItemTitle": "AL WADI LABNEH LEBANON TASTE LOCAL",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913599000000_2.jpg",
+                    "ItemPrice": "QAR34.75",
+                    "ItemBarcode": "9913599000000"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Cold Cuts",
+            "Products": [
+                {
+                    "ItemTitle": "Volys Chicken Slices With Herbs 150g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5411431115952.png",
+                    "ItemPrice": "QAR14.75",
+                    "ItemBarcode": "5411431115952"
+                },
+                {
+                    "ItemTitle": "GOURMET Smoked Chicken Breast 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6297000731544_1.jpg",
+                    "ItemPrice": "QAR15.50",
+                    "ItemBarcode": "6297000731544"
+                },
+                {
+                    "ItemTitle": "GOURMET Smoked Beef Slices 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6297000731551_1.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "6297000731551"
+                },
+                {
+                    "ItemTitle": "GOURMET Smoked Turkey Breast 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6297000731865_1.jpg",
+                    "ItemPrice": "QAR17.75",
+                    "ItemBarcode": "6297000731865"
+                },
+                {
+                    "ItemTitle": "NAMET PASTRAMI SKIMMED 100G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8697471728490.jpg",
+                    "ItemPrice": "QAR22",
+                    "ItemBarcode": "8697471728490"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Jams & Sweets",
+            "Products": [
+                {
+                    "ItemTitle": "HALAWA CHOCOLATE  TURKEY",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913681000000.jpg",
+                    "ItemPrice": "QAR30.75",
+                    "ItemBarcode": "9913681000000"
+                },
+                {
+                    "ItemTitle": "HALAWA PLAIN TURKEY",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913687000000.jpg",
+                    "ItemPrice": "QAR30.75",
+                    "ItemBarcode": "9913687000000"
+                },
+                {
+                    "ItemTitle": "FIG JAM TURKEY",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913727000000.jpg",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "9913727000000"
+                },
+                {
+                    "ItemTitle": "STRAWBERRY JAM TURKEY",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913667000000.jpg",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "9913667000000"
+                },
+                {
+                    "ItemTitle": "BALOGLU JAM APRICOT TURKEY",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913740000000.jpg",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "9913740000000"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pickels & Spices",
+            "Products": [
+                {
+                    "ItemTitle": "CORNICHONS PICKLES LEBANON",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915105000000.jpg",
+                    "ItemPrice": "QAR30",
+                    "ItemBarcode": "9915105000000"
+                },
+                {
+                    "ItemTitle": "MIX PICKLED  LEBANON",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915107000000.jpg",
+                    "ItemPrice": "QAR11.75",
+                    "ItemBarcode": "9915107000000"
+                },
+                {
+                    "ItemTitle": "MAKDOUSSE SYRIA",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915171000000.jpg",
+                    "ItemPrice": "QAR29.75",
+                    "ItemBarcode": "9915171000000"
+                },
+                {
+                    "ItemTitle": "LUPINE SEEDS  SPAIN",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915422000000.jpg",
+                    "ItemPrice": "QAR19.75",
+                    "ItemBarcode": "9915422000000"
+                },
+                {
+                    "ItemTitle": "Makdousse Lebanon (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915564000000.jpg",
+                    "ItemPrice": "QAR34.75",
+                    "ItemBarcode": "9915564000000"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Olives & Oil",
+            "Products": [
+                {
+                    "ItemTitle": "BALOUGLU OLIVE JARJEER TURKEY",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913541000000.jpg",
+                    "ItemPrice": "QAR30",
+                    "ItemBarcode": "9913541000000"
+                },
+                {
+                    "ItemTitle": "OLIVE WHOLE BLACK SPAIN",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915123000000.jpg",
+                    "ItemPrice": "QAR18.75",
+                    "ItemBarcode": "9915123000000"
+                },
+                {
+                    "ItemTitle": "OLIVE WHOLE GREEN SPAIN",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915125000000.jpg",
+                    "ItemPrice": "QAR18.75",
+                    "ItemBarcode": "9915125000000"
+                },
+                {
+                    "ItemTitle": "OLIVE BLACK  JARJIR JORDAN",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915239000000.jpg",
+                    "ItemPrice": "QAR27.50",
+                    "ItemBarcode": "9915239000000"
+                },
+                {
+                    "ItemTitle": "OLIVE GREEN JORDAN",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9915307000000.png",
+                    "ItemPrice": "QAR20.50",
+                    "ItemBarcode": "9915307000000"
+                }
+            ]
+        }
+    ]
+}

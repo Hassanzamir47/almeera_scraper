@@ -1,0 +1,321 @@
+{
+    "CategoryTitle": "Beauty & Personal Care",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/PersonalCare_3.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Face & Body Skin Care",
+            "Products": [
+                {
+                    "ItemTitle": "JOHNSONS Cotton Buds 100's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5000207582502.png",
+                    "ItemPrice": "QAR10.25",
+                    "ItemBarcode": "5000207582502"
+                },
+                {
+                    "ItemTitle": "JOHNSONS Cotton Buds 200's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5000207584506.png",
+                    "ItemPrice": "QAR17.50",
+                    "ItemBarcode": "5000207584506"
+                },
+                {
+                    "ItemTitle": "johnsons pure cotton 80s",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291018100019.png",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "6291018100019"
+                },
+                {
+                    "ItemTitle": "OPTIMAL Cotton Buds 300's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7261895103006.png",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "7261895103006"
+                },
+                {
+                    "ItemTitle": "OPTIMAL COTTON PADS 80PCS",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7261895100098.jpg",
+                    "ItemPrice": "QAR6.50",
+                    "ItemBarcode": "7261895100098"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Shower, Bath & Soap",
+            "Products": [
+                {
+                    "ItemTitle": "RDL Papaya Whitening Soap Bar 135g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4809010740212.jpg",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "4809010740212"
+                },
+                {
+                    "ItemTitle": "QUEEN OF OILS Loufa",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4000009740004.jpg",
+                    "ItemPrice": "QAR36",
+                    "ItemBarcode": "4000009740004"
+                },
+                {
+                    "ItemTitle": "PALMOLIVE Handwash Raspberry 250ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8850006493076.jpg",
+                    "ItemPrice": "QAR11.75",
+                    "ItemBarcode": "8850006493076"
+                },
+                {
+                    "ItemTitle": "HIGEEN Hand & Body Wash Sensitive 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6251007115141.jpg",
+                    "ItemPrice": "QAR12",
+                    "ItemBarcode": "6251007115141"
+                },
+                {
+                    "ItemTitle": "HIGEEN HAND & BODY WASH FRUITY 500ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6251007115349.jpg",
+                    "ItemPrice": "QAR12",
+                    "ItemBarcode": "6251007115349"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Men's Grooming",
+            "Products": [
+                {
+                    "ItemTitle": "Gillette Shaving Foam Regular 200ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3014260228743.jpg",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "3014260228743"
+                },
+                {
+                    "ItemTitle": "GILLETTE Shaving Foam Lemon 200ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3014260228750.jpg",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "3014260228750"
+                },
+                {
+                    "ItemTitle": "Nivea Men Shaving Foam Sensitive 200ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4005808817207.jpg",
+                    "ItemPrice": "QAR14.25",
+                    "ItemBarcode": "4005808817207"
+                },
+                {
+                    "ItemTitle": "NIVEA Shaving Cream 60ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4005808817719.jpg",
+                    "ItemPrice": "QAR5.50",
+                    "ItemBarcode": "4005808817719"
+                },
+                {
+                    "ItemTitle": "Nivea Shaving Cream 100ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4005808817726.jpg",
+                    "ItemPrice": "QAR8.25",
+                    "ItemBarcode": "4005808817726"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Women's Care",
+            "Products": [
+                {
+                    "ItemTitle": "SANITA Fam Relax Extra Absorbent Multi-Usage Pads 20pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281017220092.jpg",
+                    "ItemPrice": "QAR12",
+                    "ItemBarcode": "6281017220092"
+                },
+                {
+                    "ItemTitle": "DOVE Anti-Perspirant Cream Original 50ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/80466468.jpg",
+                    "ItemPrice": "QAR13.75",
+                    "ItemBarcode": "80466468"
+                },
+                {
+                    "ItemTitle": "SANITA FAM Maxi Pads Super Without Wings 30pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281017220177.jpg",
+                    "ItemPrice": "QAR12.25",
+                    "ItemBarcode": "6281017220177"
+                },
+                {
+                    "ItemTitle": "OASIS Eau de Cologne Cotton Towel 20pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8852232101022.png",
+                    "ItemPrice": "QAR11",
+                    "ItemBarcode": "8852232101022"
+                },
+                {
+                    "ItemTitle": "Nivea Anti-Perspirant Roll-On Pearl & Beauty 50ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4005808837359.jpg",
+                    "ItemPrice": "QAR11.25",
+                    "ItemBarcode": "4005808837359"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Hair Care",
+            "Products": [
+                {
+                    "ItemTitle": "Bigen Speedy Permanent Hair Colour 881 Natural Black Assorted 80g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4987205000126.jpg",
+                    "ItemPrice": "QAR24.25",
+                    "ItemBarcode": "4987205000126"
+                },
+                {
+                    "ItemTitle": "PALETTE Hair Color 10-1 Arctic Silver",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3838824127804.jpg",
+                    "ItemPrice": "QAR15.75",
+                    "ItemBarcode": "3838824127804"
+                },
+                {
+                    "ItemTitle": "PALETTE Hair Color 3-0 Dark Brown",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3838824127842.png",
+                    "ItemPrice": "QAR15.75",
+                    "ItemBarcode": "3838824127842"
+                },
+                {
+                    "ItemTitle": "PALETTE Hair Color 10-2 Ash Ultra Blonde",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3838824128320.jpg",
+                    "ItemPrice": "QAR15.75",
+                    "ItemBarcode": "3838824128320"
+                },
+                {
+                    "ItemTitle": "HEAD&SHOULDERS Anti-Dandruff Shampoo Classic Clean 400ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5011321360945.jpg",
+                    "ItemPrice": "QAR18.75",
+                    "ItemBarcode": "5011321360945"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Oral care",
+            "Products": [
+                {
+                    "ItemTitle": "SENSODYNE Extra Fresh Toothpaste for Sensitive Teeth 50ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/018653005358.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "018653005358"
+                },
+                {
+                    "ItemTitle": "SENSODYNE Extra Fresh Toothpaste for Sensitive Teeth 100ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/0018653005365.jpg",
+                    "ItemPrice": "QAR17",
+                    "ItemBarcode": "018653005365"
+                },
+                {
+                    "ItemTitle": "SENSODYNE TOOTH PASTE TOTAL CARE 50 ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5000198257502%20-Sensodyne%20-%20Multicare%20%20Whitening%20Toothpaste%20-%20%2050ml%20-%20primary%20%282%29.jpg",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "5000198257502"
+                },
+                {
+                    "ItemTitle": "LISTERINE Cool Mint Mouthwash 250ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3574661177120.jpg",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "3574661177120"
+                },
+                {
+                    "ItemTitle": "LISTERINE Mouthwash Cool Mint 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3574661177137.jpg",
+                    "ItemPrice": "QAR27.25",
+                    "ItemBarcode": "3574661177137"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Makeup & Nails",
+            "Products": [
+                {
+                    "ItemTitle": "Ultra Compact Make-Up wet wipes bag 25 pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8697420533212.jpg",
+                    "ItemPrice": "QAR9",
+                    "ItemBarcode": "8697420533212"
+                },
+                {
+                    "ItemTitle": "GARNIER Micellar Cleansing Water in Oil 400ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3600541897694.jpg",
+                    "ItemPrice": "QAR39.75",
+                    "ItemBarcode": "3600541897694"
+                },
+                {
+                    "ItemTitle": "NIVEA Micellar Water Make Up Remover for face, Eyes And Lips 400ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4005900339263.jpg",
+                    "ItemPrice": "QAR28.25",
+                    "ItemBarcode": "4005900339263"
+                },
+                {
+                    "ItemTitle": "KIEPE SCISSOR KIEPE BAG N2117/5.5",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8008981217556.jpg",
+                    "ItemPrice": "QAR57",
+                    "ItemBarcode": "8008981217556"
+                },
+                {
+                    "ItemTitle": "NOVELL Cuticle Remover 300ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291103980069.jpg",
+                    "ItemPrice": "QAR13.25",
+                    "ItemBarcode": "6291103980069"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Health & Other Personal Care",
+            "Products": [
+                {
+                    "ItemTitle": "Almond Oil 200ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8430689088556.jpg",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "8430689088556"
+                },
+                {
+                    "ItemTitle": "AXE COLD & HEAD ACHE RELIEF OIL 3 ml.",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8888115000168.png",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "8888115000168"
+                },
+                {
+                    "ItemTitle": "HIGEEN Hand Sanitizer Anti-Bacterial with Lemon 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6251007612831.jpg",
+                    "ItemPrice": "QAR17.25",
+                    "ItemBarcode": "6251007612831"
+                },
+                {
+                    "ItemTitle": "TIGER Balm Red Ointment 30g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/88821559.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "88821559"
+                },
+                {
+                    "ItemTitle": "TIGER BALM RED 19G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/88821573.png",
+                    "ItemPrice": "QAR7.50",
+                    "ItemBarcode": "88821573"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Foot Care",
+            "Products": [
+                {
+                    "ItemTitle": "SUDOCREM Antiseptic Healing Cream 125g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5011025044004.jpg",
+                    "ItemPrice": "QAR21",
+                    "ItemBarcode": "5011025044004"
+                },
+                {
+                    "ItemTitle": "AIKEN CRACKED HEEL CREAM 50G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8888202034618.png",
+                    "ItemPrice": "QAR12.50",
+                    "ItemBarcode": "8888202034618"
+                },
+                {
+                    "ItemTitle": "HANSAPLAST SOOTHING FOOT CRM 10%UREA100ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4005900603067.jpg",
+                    "ItemPrice": "QAR29.50",
+                    "ItemBarcode": "4005900603067"
+                },
+                {
+                    "ItemTitle": "Titania Foot File 1pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4008576030281.jpg",
+                    "ItemPrice": "QAR9",
+                    "ItemBarcode": "4008576030281"
+                },
+                {
+                    "ItemTitle": "BETER Pumice Stone Pedicure",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8412122081508.jpg",
+                    "ItemPrice": "QAR12.50",
+                    "ItemBarcode": "8412122081508"
+                }
+            ]
+        }
+    ]
+}

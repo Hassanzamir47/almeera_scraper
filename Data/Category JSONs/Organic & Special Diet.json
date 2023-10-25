@@ -1,0 +1,111 @@
+{
+    "CategoryTitle": "Organic & Special Diet",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Sugar Free",
+            "Products": [
+                {
+                    "ItemTitle": "TROPICNA SILM ZERO CAL.ITALIAN 10'S",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/749921004024.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "749921004024"
+                },
+                {
+                    "ItemTitle": "TROPICANA SLIM CAPPUCCINO 8 SCH",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/749921004048.jpg",
+                    "ItemPrice": "QAR15.25",
+                    "ItemBarcode": "749921004048"
+                },
+                {
+                    "ItemTitle": "BRITANNIA Digestive Biscuits Sugar-Free 350g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291007902198.jpg",
+                    "ItemPrice": "QAR8.25",
+                    "ItemBarcode": "6291007902198"
+                },
+                {
+                    "ItemTitle": "TROPICANA SLIM S/F HONEY 350ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/749921009838.png",
+                    "ItemPrice": "QAR25.75",
+                    "ItemBarcode": "749921009838"
+                },
+                {
+                    "ItemTitle": "NABIL DIGESTIVE  SUGAR/F250G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501025158918.png",
+                    "ItemPrice": "QAR5.50",
+                    "ItemBarcode": "9501025158918"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Gluten Free",
+            "Products": [
+                {
+                    "ItemTitle": "PANZANI Gluten-Free Penne Pasta 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3038359004513.png",
+                    "ItemPrice": "QAR9.75",
+                    "ItemBarcode": "3038359004513"
+                },
+                {
+                    "ItemTitle": "Barilla Gluten Free Penne Rigate Pasta Pack 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8076809545457.jpg",
+                    "ItemPrice": "QAR12.25",
+                    "ItemBarcode": "8076809545457"
+                },
+                {
+                    "ItemTitle": "Barilla Gluten Free Fusilli Pasta Pack 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8076809545464.jpg",
+                    "ItemPrice": "QAR12.25",
+                    "ItemBarcode": "8076809545464"
+                },
+                {
+                    "ItemTitle": "ALPRO Gluten-Free Oat Barista Drink For Professionals 1L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5411188132110.jpg",
+                    "ItemPrice": "QAR17",
+                    "ItemBarcode": "5411188132110"
+                },
+                {
+                    "ItemTitle": "DOMO Cake Mix Vanilla Gluten-Free 425g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5281010100712.jpg",
+                    "ItemPrice": "QAR27.50",
+                    "ItemBarcode": "5281010100712"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Protein Bars",
+            "Products": [
+                {
+                    "ItemTitle": "NATURE VALLEY Protein Bar Salted Caramel Nut 40g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8410076900555.png",
+                    "ItemPrice": "QAR4.25",
+                    "ItemBarcode": "8410076900555"
+                },
+                {
+                    "ItemTitle": "GRENADE Carb Killa High Proteins Chocolate And Cookie Dough Bar 60g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5060221203937.jpg",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "5060221203937"
+                },
+                {
+                    "ItemTitle": "GRENADE Carb Killa High Protein Chocolate And Caramel Chaos Bar 60g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5060221201391.jpg",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "5060221201391"
+                },
+                {
+                    "ItemTitle": "GRENADE Carb Killa High Protein Peanut Butter Bar 60g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5060221203753.jpg",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "5060221203753"
+                },
+                {
+                    "ItemTitle": "MAXSPORT Gluten-Free Protein Bar Choco & Nuts\u00a060g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8588003339331.jpg",
+                    "ItemPrice": "QAR8.50",
+                    "ItemBarcode": "8588003339331"
+                }
+            ]
+        }
+    ]
+}

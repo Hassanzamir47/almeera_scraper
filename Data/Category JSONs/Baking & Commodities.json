@@ -1,0 +1,251 @@
+{
+    "CategoryTitle": "Baking & Commodities",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Rice",
+            "Products": [
+                {
+                    "ItemTitle": "Punjab Grdn Rice Bas 5Kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/815234000319.png",
+                    "ItemPrice": "QAR40",
+                    "ItemBarcode": "815234000319"
+                },
+                {
+                    "ItemTitle": "PUNJAB GARDEN Basmati Rice 10kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/815234000326.png",
+                    "ItemPrice": "QAR76",
+                    "ItemBarcode": "815234000326"
+                },
+                {
+                    "ItemTitle": "PUNJAB GARDEN Supreme Basmati Rice 20kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/815234000333.png",
+                    "ItemPrice": "QAR151",
+                    "ItemBarcode": "815234000333"
+                },
+                {
+                    "ItemTitle": "PUNJAB GARDEN Basmati Rice 2kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/815234000395.png",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "815234000395"
+                },
+                {
+                    "ItemTitle": "TILDA Basmati Pure Original Long White Rice 5kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901144100507.jpg",
+                    "ItemPrice": "QAR71.75",
+                    "ItemBarcode": "8901144100507"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pasta",
+            "Products": [
+                {
+                    "ItemTitle": "SIPA Macaroni Spaghetti 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/013932004626.png",
+                    "ItemPrice": "QAR6.50",
+                    "ItemBarcode": "013932004626"
+                },
+                {
+                    "ItemTitle": "PANZANI Vermicelli Pasta Pack 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3038351161306.jpg",
+                    "ItemPrice": "QAR6.50",
+                    "ItemBarcode": "3038351161306"
+                },
+                {
+                    "ItemTitle": "PANZANI Spaghetti No.5 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3038351165007.jpg",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "3038351165007"
+                },
+                {
+                    "ItemTitle": "PANZANI Lasagne Pasta Pack 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3038351480100.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "3038351480100"
+                },
+                {
+                    "ItemTitle": "PANZANI Tagliatelle Pasta 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3038351484207.jpg",
+                    "ItemPrice": "QAR11.75",
+                    "ItemBarcode": "3038351484207"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Noodles & Soups",
+            "Products": [
+                {
+                    "ItemTitle": "INDOMIE Instant Cup Noodles Chicken Flavour 60g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/089686122015.jpg",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "089686122015"
+                },
+                {
+                    "ItemTitle": "KNORR Cup-A-Soup Cream of Chicken Soup 4pcsx18g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281006800960.jpg",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "6281006800960"
+                },
+                {
+                    "ItemTitle": "KNORR Cup A Soup Chicken Noodle Soup 4pcsx15g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281006794382.jpg",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "6281006794382"
+                },
+                {
+                    "ItemTitle": "MAGGI Spring Season Soup 59g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7610100300066.png",
+                    "ItemPrice": "QAR3.75",
+                    "ItemBarcode": "7610100300066"
+                },
+                {
+                    "ItemTitle": "INDOMIE Fried Noodles 80g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/089686120714.jpg",
+                    "ItemPrice": "QAR1.50",
+                    "ItemBarcode": "089686120714"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Baking Ingredients",
+            "Products": [
+                {
+                    "ItemTitle": "SAF-INSTANT Original Instant Yeast 125g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/30028203.jpg",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "30028203"
+                },
+                {
+                    "ItemTitle": "AMERICAN GARDEN Pancake Syrup Original 710ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/017273501592.jpg",
+                    "ItemPrice": "QAR19",
+                    "ItemBarcode": "017273501592"
+                },
+                {
+                    "ItemTitle": "FOSTER CLARKS Baking Powder 225g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101142611.jpg",
+                    "ItemPrice": "QAR7.25",
+                    "ItemBarcode": "5352101142611"
+                },
+                {
+                    "ItemTitle": "FOSTER CLARKS Bicarbonate of Soda Powder 150g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101665769.jpg",
+                    "ItemPrice": "QAR4.25",
+                    "ItemBarcode": "5352101665769"
+                },
+                {
+                    "ItemTitle": "FOSTER CLARKS Vanilla Flavour Powder 15g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101800191.jpg",
+                    "ItemPrice": "QAR3.75",
+                    "ItemBarcode": "5352101800191"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Flour",
+            "Products": [
+                {
+                    "ItemTitle": "MODERN FOOD Corn Flour 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000007576.png",
+                    "ItemPrice": "QAR5",
+                    "ItemBarcode": "5100000007576"
+                },
+                {
+                    "ItemTitle": "MODERN FOOD Rice Powder 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000007592.jpg",
+                    "ItemPrice": "QAR4.50",
+                    "ItemBarcode": "5100000007592"
+                },
+                {
+                    "ItemTitle": "PATENT KUWAIT FLOUR  All-Purpose Flour 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271003014019.jpg",
+                    "ItemPrice": "QAR5.50",
+                    "ItemBarcode": "6271003014019"
+                },
+                {
+                    "ItemTitle": "KFMBC All Purpose Flour 5kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271003014026.jpg",
+                    "ItemPrice": "QAR26.25",
+                    "ItemBarcode": "6271003014026"
+                },
+                {
+                    "ItemTitle": "QFM Patent Flour No.1,  1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100370112.jpg",
+                    "ItemPrice": "QAR4.25",
+                    "ItemBarcode": "9501100370112"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pulses & Grains",
+            "Products": [
+                {
+                    "ItemTitle": "SIPA Cuscus 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3177960004540.png",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "3177960004540"
+                },
+                {
+                    "ItemTitle": "SIPA Cous Cous 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3660861000648.png",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "3660861000648"
+                },
+                {
+                    "ItemTitle": "HYDEPARK Green Lentil 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000000484.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "5100000000484"
+                },
+                {
+                    "ItemTitle": "MODERN FOOD Moong Whole 1Kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000003996.jpg",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "5100000003996"
+                },
+                {
+                    "ItemTitle": "MFC Moong Dal 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000004015.jpg",
+                    "ItemPrice": "QAR11.50",
+                    "ItemBarcode": "5100000004015"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pre Mix",
+            "Products": [
+                {
+                    "ItemTitle": "FOSTER CLARKS Muhalabia 85g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101078231.png",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "5352101078231"
+                },
+                {
+                    "ItemTitle": "FOSTER CLARKS  Jelly Powder Cherry Flavour 85g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101344398_1.jpg",
+                    "ItemPrice": "QAR2.25",
+                    "ItemBarcode": "5352101344398"
+                },
+                {
+                    "ItemTitle": "FOSTER CLARKS Cream Caramel Powder 50g topping 21g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101422614.jpg",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "5352101422614"
+                },
+                {
+                    "ItemTitle": "FOSTER CLARKS Custard Powder 450g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101542893.jpg",
+                    "ItemPrice": "QAR7.25",
+                    "ItemBarcode": "5352101542893"
+                },
+                {
+                    "ItemTitle": "Foster Cariks\u2019s Jelly Powder Banana&Strawberry Flavour 85g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5352101750199_1.jpg",
+                    "ItemPrice": "QAR2.50",
+                    "ItemBarcode": "5352101750199"
+                }
+            ]
+        }
+    ]
+}

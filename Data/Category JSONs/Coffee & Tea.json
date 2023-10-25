@@ -1,0 +1,181 @@
+{
+    "CategoryTitle": "Coffee & Tea",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Coffee",
+            "Products": [
+                {
+                    "ItemTitle": "CAFE NAJJAR Ground Coffee Classic 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/022644002639.jpg",
+                    "ItemPrice": "QAR13.75",
+                    "ItemBarcode": "022644002639"
+                },
+                {
+                    "ItemTitle": "Caf\u00e9 Najjar Ground Coffee Cardamom 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/022644002646.jpg",
+                    "ItemPrice": "QAR13.75",
+                    "ItemBarcode": "022644002646"
+                },
+                {
+                    "ItemTitle": "DAVIDOFF Espresso 57 Instant Coffee 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4006067060977.jpg",
+                    "ItemPrice": "QAR23",
+                    "ItemBarcode": "4006067060977"
+                },
+                {
+                    "ItemTitle": "DAVIDOFF Rich Aroma Instant Coffee 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4006067084225.png",
+                    "ItemPrice": "QAR23",
+                    "ItemBarcode": "4006067084225"
+                },
+                {
+                    "ItemTitle": "DAVIDOFF Fine Aroma Instant Coffee 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4006067084300.jpg",
+                    "ItemPrice": "QAR23",
+                    "ItemBarcode": "4006067084300"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Tea",
+            "Products": [
+                {
+                    "ItemTitle": "ALWAZAH Tea Bags 100's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4791002019454.png",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "4791002019454"
+                },
+                {
+                    "ItemTitle": "AL KABOUS Fine Black Tea 454g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5000311241456.jpg",
+                    "ItemPrice": "QAR13",
+                    "ItemBarcode": "5000311241456"
+                },
+                {
+                    "ItemTitle": "HI-TEA Black Tea 100pcs\u00d72g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901357000038_1_1.png",
+                    "ItemPrice": "QAR9.25",
+                    "ItemBarcode": "8901357000038"
+                },
+                {
+                    "ItemTitle": "NATURAL Aid Slim Tea 40g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/799114117000.png",
+                    "ItemPrice": "QAR21.50",
+                    "ItemBarcode": "799114117000"
+                },
+                {
+                    "ItemTitle": "Hi-Tea Loose Tea Packet 225g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901357000052.jpg",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "8901357000052"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Creamers & Milk Powders",
+            "Products": [
+                {
+                    "ItemTitle": "NIDO Fortified Full Cream Milk Powder 900g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6211002513182.jpg",
+                    "ItemPrice": "QAR34.50",
+                    "ItemBarcode": "6211002513182"
+                },
+                {
+                    "ItemTitle": "NIDO Fortified Full Cream Milk Powder 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7616100018260.jpg",
+                    "ItemPrice": "QAR19.75",
+                    "ItemBarcode": "7616100018260"
+                },
+                {
+                    "ItemTitle": "NIDO Fortified Full Cream Milk Powder 900g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7616100388318.jpg",
+                    "ItemPrice": "QAR39.75",
+                    "ItemBarcode": "7616100388318"
+                },
+                {
+                    "ItemTitle": "RAINBOW Milk Powder 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8716200123419.jpg",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "8716200123419"
+                },
+                {
+                    "ItemTitle": "RAINBOW MILK POWDER  900GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8716200123426.jpg",
+                    "ItemPrice": "QAR32.50",
+                    "ItemBarcode": "8716200123426"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Sugar & Sweeteners",
+            "Products": [
+                {
+                    "ItemTitle": "TROPICANA SLIM Sweetener 125g/50's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/749921001016.png",
+                    "ItemPrice": "QAR16.25",
+                    "ItemBarcode": "749921001016"
+                },
+                {
+                    "ItemTitle": "SWEET'N LOW Sweetener 50Pcs, 40g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5011862880070.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "5011862880070"
+                },
+                {
+                    "ItemTitle": "SWEET'N LOW Sugar Tablets Sweetener 300pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5011862900129.jpg",
+                    "ItemPrice": "QAR17",
+                    "ItemBarcode": "5011862900129"
+                },
+                {
+                    "ItemTitle": "SWEET'N LOW Sweetener 100Pcs, 80g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5011862911002.jpg",
+                    "ItemPrice": "QAR15.50",
+                    "ItemBarcode": "5011862911002"
+                },
+                {
+                    "ItemTitle": "SWEET'N LOW Sweetener 200Tablets, 10.4g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5011862952111.jpg",
+                    "ItemPrice": "QAR13.25",
+                    "ItemBarcode": "5011862952111"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Cocoa Powder",
+            "Products": [
+                {
+                    "ItemTitle": "HINTZ Cocoa Powder 227g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4104220122057.png",
+                    "ItemPrice": "QAR31",
+                    "ItemBarcode": "4104220122057"
+                },
+                {
+                    "ItemTitle": "HINTZ Cocoa Powder 454g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4104220122064.png",
+                    "ItemPrice": "QAR45",
+                    "ItemBarcode": "4104220122064"
+                },
+                {
+                    "ItemTitle": "CADBURY Chocolate Powder 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5000312000670.jpg",
+                    "ItemPrice": "QAR8.50",
+                    "ItemBarcode": "5000312000670"
+                },
+                {
+                    "ItemTitle": "HINTZ Cocoa Powder 125g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4104220122026.jpg",
+                    "ItemPrice": "QAR22",
+                    "ItemBarcode": "4104220122026"
+                },
+                {
+                    "ItemTitle": "OVALTINE MALTED DRINK 400GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8850086191435.png",
+                    "ItemPrice": "QAR21.50",
+                    "ItemBarcode": "8850086191435"
+                }
+            ]
+        }
+    ]
+}

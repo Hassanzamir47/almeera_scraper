@@ -1,0 +1,176 @@
+{
+    "CategoryTitle": "Sadia Products",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/Category%20Banner%20%201000%20x%20291.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Breaded Chicken",
+            "Products": [
+                {
+                    "ItemTitle": "SADIA Frozen Chicken Shawarma 300g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7891515560560.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "7891515560560"
+                },
+                {
+                    "ItemTitle": "SADIA Chicken Shawarma 2.5kg (boneless Chicken)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7893000556034.jpg",
+                    "ItemPrice": "QAR40.50",
+                    "ItemBarcode": "7893000556034"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Burgers & Franks",
+            "Products": [
+                {
+                    "ItemTitle": "SADIA Chicken Franks 10pc/340g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690451706532.jpg",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "8690451706532"
+                },
+                {
+                    "ItemTitle": "SADIA Chicken Franks Smoked 10pc/340g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690451713233.jpg",
+                    "ItemPrice": "QAR6.25",
+                    "ItemBarcode": "8690451713233"
+                },
+                {
+                    "ItemTitle": "SADIA Chicken Franks Hot & Spicy 340g, 10pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690451713240.jpg",
+                    "ItemPrice": "QAR6.25",
+                    "ItemBarcode": "8690451713240"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "French Fries",
+            "Products": [
+                {
+                    "ItemTitle": "SADIA Frozen French Fries 2.5kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7891515486549.jpg",
+                    "ItemPrice": "QAR19",
+                    "ItemBarcode": "7891515486549"
+                },
+                {
+                    "ItemTitle": "SADIA Frozen French Fries Thin Cut 2.5kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7891515486532.jpeg",
+                    "ItemPrice": "QAR19",
+                    "ItemBarcode": "7891515486532"
+                },
+                {
+                    "ItemTitle": "SADIA Season Potato Wedges 750g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7891515486556.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "7891515486556"
+                },
+                {
+                    "ItemTitle": "SADIA Extra Crispy French Fries Thin Cut 2.5kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7891515540098.jpg",
+                    "ItemPrice": "QAR23",
+                    "ItemBarcode": "7891515540098"
+                },
+                {
+                    "ItemTitle": "SADIA Thin-Cut French Fries 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7891515486525.jpg",
+                    "ItemPrice": "QAR8.50",
+                    "ItemBarcode": "7891515486525"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Fruits & Vegetables",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Meat & Seafood",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Poultry",
+            "Products": [
+                {
+                    "ItemTitle": "SADIA Chicken Breast Boneless 450g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7891515465520.jpg",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "7891515465520"
+                },
+                {
+                    "ItemTitle": "SADIA Frozen Chicken Drumstick 900g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7893000457485.jpg",
+                    "ItemPrice": "QAR18.50",
+                    "ItemBarcode": "7893000457485"
+                },
+                {
+                    "ItemTitle": "SADIA Chicken Thigh 900g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7893000457645.jpg",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "7893000457645"
+                },
+                {
+                    "ItemTitle": "SADIA Chicken Whole Legs 900g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7893000056473.jpg",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "7893000056473"
+                },
+                {
+                    "ItemTitle": "SADIA Frozen Chicken 1200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7893000558328.png",
+                    "ItemPrice": "QAR13",
+                    "ItemBarcode": "7893000558328"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "SADIA Promotions",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Whole Poultry",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Poultry Parts- Bags",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Poultry Parts- Trays",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Poultry Parts - Polybags",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Chicken Burger",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Shawarma Box",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Beef Burger",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Franks",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Zings",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Fries",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Vegetables",
+            "Products": []
+        },
+        {
+            "SubcategoryTitle": "Mccain",
+            "Products": []
+        }
+    ]
+}

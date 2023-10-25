@@ -1,0 +1,227 @@
+{
+    "CategoryTitle": "Bakery & Pastry",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/bakery_1.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Fresh",
+            "Products": [
+                {
+                    "ItemTitle": "Naan Bread 3pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9918583000000.png",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "9918583000000"
+                },
+                {
+                    "ItemTitle": "BREAD NAAN WHOLEMEAL 1X3",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9918584000000.png",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "9918584000000"
+                },
+                {
+                    "ItemTitle": "Turkish Bread 2pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9918588000000.jpg",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "9918588000000"
+                },
+                {
+                    "ItemTitle": "ARABIC SAG BREAD",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6568151924100.png",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "6568151924100"
+                },
+                {
+                    "ItemTitle": "Batter Meshaltet",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6655373532234.png",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "6655373532234"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Arabic Bread & Tortilla",
+            "Products": [
+                {
+                    "ItemTitle": "AL ARZ Bakeries Arabic Bread 10pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8044190340005.jpg",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "8044190340005"
+                },
+                {
+                    "ItemTitle": "AL ARZ Arabic Brown Bread 4pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8044190340029.jpg",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "8044190340029"
+                },
+                {
+                    "ItemTitle": "AL ZAWAQ Egyptian Bread 310g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/939000999948.jpg",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "939000999948"
+                },
+                {
+                    "ItemTitle": "WOODEN BAKERY Arabic Pita Bran Small 4Loaves, 220g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5285000172536.jpg",
+                    "ItemPrice": "QAR2",
+                    "ItemBarcode": "5285000172536"
+                },
+                {
+                    "ItemTitle": "WOODEN BAKERY White Bread 10pcs, 625g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5285000170679.jpg",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "5285000170679"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Bread",
+            "Products": [
+                {
+                    "ItemTitle": "ARIRANG Bread Toast Milk 750g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9567891000010.jpg",
+                    "ItemPrice": "QAR6.50",
+                    "ItemBarcode": "9567891000010"
+                },
+                {
+                    "ItemTitle": "KOREAN BAKERIES Toasted Bread Large 675g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4990000010368.jpg",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "4990000010368"
+                },
+                {
+                    "ItemTitle": "KOREAN BAKERIES Bread Toast Butter 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291105900133.jpg",
+                    "ItemPrice": "QAR3.75",
+                    "ItemBarcode": "6291105900133"
+                },
+                {
+                    "ItemTitle": "KOREAN BAKERIES Toasted Bread Medium 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4990000010375_1.jpg",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "4990000010375"
+                },
+                {
+                    "ItemTitle": "QBAKE Milk Bread 620g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6253808660264.jpg",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "6253808660264"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Buns & Rolls",
+            "Products": [
+                {
+                    "ItemTitle": "NAPOLI BAKERIES Milky Sandwich Roll 8pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000000127.jpg",
+                    "ItemPrice": "QAR3.75",
+                    "ItemBarcode": "5100000000127"
+                },
+                {
+                    "ItemTitle": "NAPOLI BAKERIES Samona Sandwich Roll 10pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000000142.jpg",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "5100000000142"
+                },
+                {
+                    "ItemTitle": "LONDON BAKERY Butter Roll 8pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000000260.jpg",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "5100000000260"
+                },
+                {
+                    "ItemTitle": "LONDON BAKERY Hotdog Bread 10pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000000264.jpg",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "5100000000264"
+                },
+                {
+                    "ItemTitle": "LONDON BAKERY Hamburger Bread 6pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000000275.jpg",
+                    "ItemPrice": "QAR3.75",
+                    "ItemBarcode": "5100000000275"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Rusk & Toast",
+            "Products": [
+                {
+                    "ItemTitle": "BRITANIA Wheat Rusk 335g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901063151055.png",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "8901063151055"
+                },
+                {
+                    "ItemTitle": "BRITANIA MILK RUSK 310GM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901063136762.png",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "8901063136762"
+                },
+                {
+                    "ItemTitle": "PARLIAMENT\u00a0SUJI RUSK 300G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8908004076392.png",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "8908004076392"
+                },
+                {
+                    "ItemTitle": "PARLIAMENT SUJI RUSK 600G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8908004076576.png",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "8908004076576"
+                },
+                {
+                    "ItemTitle": "QBAKE Cake Rusk 26g\u00d718",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100379825.png",
+                    "ItemPrice": "QAR16",
+                    "ItemBarcode": "9501100379825"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pastries and Cakes",
+            "Products": [
+                {
+                    "ItemTitle": "NOOR SWEETS Cup Cake 12pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000005351.png",
+                    "ItemPrice": "QAR6.25",
+                    "ItemBarcode": "5100000005351"
+                },
+                {
+                    "ItemTitle": "AL NOOR Sweets Butter Cake 12pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000005352.jpg",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "5100000005352"
+                },
+                {
+                    "ItemTitle": "AL NOOR Toasted Cake 12pc",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000005353.png",
+                    "ItemPrice": "QAR6.25",
+                    "ItemBarcode": "5100000005353"
+                },
+                {
+                    "ItemTitle": "QBAKE Cream Bun 75g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100379610.png",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "9501100379610"
+                },
+                {
+                    "ItemTitle": "QBAKE Fruit Roll 80g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100379450.png",
+                    "ItemPrice": "QAR1.75",
+                    "ItemBarcode": "9501100379450"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Sweets",
+            "Products": [
+                {
+                    "ItemTitle": "Al Zawaq Eid Biscuits 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4483742899556.jpg",
+                    "ItemPrice": "QAR17.50",
+                    "ItemBarcode": "4483742899556"
+                }
+            ]
+        }
+    ]
+}

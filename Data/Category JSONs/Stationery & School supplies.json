@@ -1,0 +1,99 @@
+{
+    "CategoryTitle": "Stationery & School supplies",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/Stationaries_1.jpeg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Stationery",
+            "Products": [
+                {
+                    "ItemTitle": "ARTLINE WB MARKER 4'S",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4974052809941.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "4974052809941"
+                },
+                {
+                    "ItemTitle": "DELI CLEAR BAG 5502",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6921734955029_1.png",
+                    "ItemPrice": "QAR1.50",
+                    "ItemBarcode": "6921734955029"
+                },
+                {
+                    "ItemTitle": "DELI COL PENCIL TUBE 12S 37120",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6935205371201.jpg",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "6935205371201"
+                },
+                {
+                    "ItemTitle": "DELI Colored Paper Clips 100's",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6921734900241.jpg",
+                    "ItemPrice": "QAR1.75",
+                    "ItemBarcode": "6921734900241"
+                },
+                {
+                    "ItemTitle": "DELI CORRECTION PEN 10ML 9292",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6935205392923.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "6935205392923"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Bags & Lunch Sets",
+            "Products": [
+                {
+                    "ItemTitle": "KOMAX Smart Handy Water Bottle For Kids 600ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8801775204622.jpg",
+                    "ItemPrice": "QAR10.75",
+                    "ItemBarcode": "8801775204622"
+                },
+                {
+                    "ItemTitle": "Star Wars PP Tumbler 430ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8412497832842a.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "8412497832842"
+                },
+                {
+                    "ItemTitle": "STOR Square Water Bottle Minnie So Edgy Bows 530ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8412497511143.jpg",
+                    "ItemPrice": "QAR25",
+                    "ItemBarcode": "8412497511143"
+                },
+                {
+                    "ItemTitle": "STOR Square Water Bottle Cars Race Ready 530ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8412497187140.jpg",
+                    "ItemPrice": "QAR23",
+                    "ItemBarcode": "8412497187140"
+                },
+                {
+                    "ItemTitle": "STOR(Funny Cars) Sandwich Box",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8412497515745.jpg",
+                    "ItemPrice": "QAR14",
+                    "ItemBarcode": "8412497515745"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Calculators",
+            "Products": [
+                {
+                    "ItemTitle": "CASIO Scientific Calculator FX-82ESPLUS Bundle",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4961311873362.jpg",
+                    "ItemPrice": "QAR49",
+                    "ItemBarcode": "4961311873362"
+                },
+                {
+                    "ItemTitle": "Casio Scientific Calculator Fx-95Esplus",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4549526608735.jpg",
+                    "ItemPrice": "QAR69",
+                    "ItemBarcode": "4549526608735"
+                },
+                {
+                    "ItemTitle": "Casio Scien Calculator Fx-82Esplus",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4549526608667.jpg",
+                    "ItemPrice": "QAR49",
+                    "ItemBarcode": "4549526608667"
+                }
+            ]
+        }
+    ]
+}

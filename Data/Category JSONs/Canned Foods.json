@@ -1,0 +1,146 @@
+{
+    "CategoryTitle": "Canned Foods",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Fruits",
+            "Products": [
+                {
+                    "ItemTitle": "LIBBYS Pineapple Sliced in Heavy Syrup 235g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/76125119.png",
+                    "ItemPrice": "QAR4.25",
+                    "ItemBarcode": "76125119"
+                },
+                {
+                    "ItemTitle": "DEL MONTE Pineapple Slice in Syrup 234g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/024000003649.png",
+                    "ItemPrice": "QAR4",
+                    "ItemBarcode": "024000003649"
+                },
+                {
+                    "ItemTitle": "DEL MONTE Pineapple Chunks Can 235g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/024000008934.png",
+                    "ItemPrice": "QAR4.25",
+                    "ItemBarcode": "024000008934"
+                },
+                {
+                    "ItemTitle": "Del Monte Fruit Cocktail In Syrup 825g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/024000010920.png",
+                    "ItemPrice": "QAR12.25",
+                    "ItemBarcode": "024000010920"
+                },
+                {
+                    "ItemTitle": "Del Monte Pineapple Sliced Can 570g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/024000012313.png",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "024000012313"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Vegetables",
+            "Products": [
+                {
+                    "ItemTitle": "DEL MONTE Chopped Tomato In Tomato Juice 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/024000143635.png",
+                    "ItemPrice": "QAR6.50",
+                    "ItemBarcode": "024000143635"
+                },
+                {
+                    "ItemTitle": "CALIFORNIA GARDEN Mushroom Slice 184g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/032894011138.png",
+                    "ItemPrice": "QAR4",
+                    "ItemBarcode": "032894011138"
+                },
+                {
+                    "ItemTitle": "Libbys Whole Sweet Corn No Added Sugar Can 198g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/039000036436.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "039000036436"
+                },
+                {
+                    "ItemTitle": "LIBBYS Whole Sweet Corn No Added Sugar Can 425g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/039000036559.jpg",
+                    "ItemPrice": "QAR4.75",
+                    "ItemBarcode": "039000036559"
+                },
+                {
+                    "ItemTitle": "Libbys Mushrooms Sliced 184g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/788930062670.jpg",
+                    "ItemPrice": "QAR4.25",
+                    "ItemBarcode": "788930062670"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Seafood",
+            "Products": [
+                {
+                    "ItemTitle": "California Garden White Tuna Solid In Sunflower Oil 185g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/32894010766.jpg",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "032894010766"
+                },
+                {
+                    "ItemTitle": "CALIFORNIA GARDEN White Tuna Solid In vegetable Oil 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/032894010780.jpg",
+                    "ItemPrice": "QAR4.50",
+                    "ItemBarcode": "032894010780"
+                },
+                {
+                    "ItemTitle": "CALIFORNIA GARDEN Light Meat Tuna in Sunflower Oil 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/032894010827.jpg",
+                    "ItemPrice": "QAR3.25",
+                    "ItemBarcode": "032894010827"
+                },
+                {
+                    "ItemTitle": "CALIFORNIA GARDEN Light Solid Tuna In Sunflower Oil 185g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/032894020659.png",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "032894020659"
+                },
+                {
+                    "ItemTitle": "CALIFORNIA GARDEN Light Tuna Chunks in Sunflower Oil 185g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/032894020666.jpg",
+                    "ItemPrice": "QAR6.25",
+                    "ItemBarcode": "032894020666"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Poultry & Meat",
+            "Products": [
+                {
+                    "ItemTitle": "AL TAGHZIAH Beef Luncheon Meat  200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5283002830010.png",
+                    "ItemPrice": "QAR4.50",
+                    "ItemBarcode": "5283002830010"
+                },
+                {
+                    "ItemTitle": "Al Taghziah Beef Luncheon Meat Can 340g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5283002830027.jpg",
+                    "ItemPrice": "QAR6.75",
+                    "ItemBarcode": "5283002830027"
+                },
+                {
+                    "ItemTitle": "Al Taghziah Beef Luncheon Meat Can 840g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5283002830034.jpg",
+                    "ItemPrice": "QAR17",
+                    "ItemBarcode": "5283002830034"
+                },
+                {
+                    "ItemTitle": "Al Taghziah Chicken Luncheon Meat Can 840g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5283002830089.jpg",
+                    "ItemPrice": "QAR17",
+                    "ItemBarcode": "5283002830089"
+                },
+                {
+                    "ItemTitle": "AL TAGHZIAH Turkey Luncheon Meat 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5283002830096.png",
+                    "ItemPrice": "QAR4.50",
+                    "ItemBarcode": "5283002830096"
+                }
+            ]
+        }
+    ]
+}

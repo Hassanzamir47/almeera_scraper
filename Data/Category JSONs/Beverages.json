@@ -1,0 +1,245 @@
+{
+    "CategoryTitle": "Beverages",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/beverage_3.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Water",
+            "Products": [
+                {
+                    "ItemTitle": "DOHA Ice Cubes 3kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4990000003926.png",
+                    "ItemPrice": "QAR4",
+                    "ItemBarcode": "4990000003926"
+                },
+                {
+                    "ItemTitle": "WEST BAY ICE CUBE 3KG",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4900001017754.png",
+                    "ItemPrice": "QAR4",
+                    "ItemBarcode": "4900001017754"
+                },
+                {
+                    "ItemTitle": "RAYYAN Mineral Water 330ml x 30",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/705632061022.png",
+                    "ItemPrice": "QAR14.50",
+                    "ItemBarcode": "705632061022"
+                },
+                {
+                    "ItemTitle": "SIRMA EX NAT SPRNG WTR 330ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8691058143218.png",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "8691058143218"
+                },
+                {
+                    "ItemTitle": "SIRMA NAT MIN WATER 200ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8691058145137.png",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "8691058145137"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Energy & Sport Drinks",
+            "Products": [
+                {
+                    "ItemTitle": "SHAHEEN ENERGY DRINK 250ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5906213009876_2.png",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "5906213009876"
+                },
+                {
+                    "ItemTitle": "Red Bull Energy Drink, 250ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/90162602.jpg",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "90162602"
+                },
+                {
+                    "ItemTitle": "ORANAMIN C Carbonated Drink 120ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4987035481911.jpg",
+                    "ItemPrice": "QAR4.75",
+                    "ItemBarcode": "4987035481911"
+                },
+                {
+                    "ItemTitle": "Pocari Sweat Isotonic Drink 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8997035600300.png",
+                    "ItemPrice": "QAR4.25",
+                    "ItemBarcode": "8997035600300"
+                },
+                {
+                    "ItemTitle": "POCARI SWEAT Ion Drink 330ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8997035600133.png",
+                    "ItemPrice": "QAR2.75",
+                    "ItemBarcode": "8997035600133"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Protein Drinks",
+            "Products": [
+                {
+                    "ItemTitle": "Fuel 10K Strawberry Breakfast Milk Drink 330ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5060201621843.jpg",
+                    "ItemPrice": "QAR11.50",
+                    "ItemBarcode": "5060201621843"
+                },
+                {
+                    "ItemTitle": "Carb Killa Protein Shk Fudge Brwn 330Ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5060221203630.jpg",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "5060221203630"
+                },
+                {
+                    "ItemTitle": "Carb Killa Protein Shk White Choco 330Ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5060221203968.jpg",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "5060221203968"
+                },
+                {
+                    "ItemTitle": "Big Joy Whey Protein Drinks Strawberry 30.5G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8681429066758.jpg",
+                    "ItemPrice": "QAR7.25",
+                    "ItemBarcode": "8681429066758"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Soft Drinks",
+            "Products": [
+                {
+                    "ItemTitle": "PEPSI Soft Drink Bottle 2.25L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/012000004070.png",
+                    "ItemPrice": "QAR7.50",
+                    "ItemBarcode": "012000004070"
+                },
+                {
+                    "ItemTitle": "MIRINDA Orange Soft Drink Bottle 2.25L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/012000800191.png",
+                    "ItemPrice": "QAR7.50",
+                    "ItemBarcode": "012000800191"
+                },
+                {
+                    "ItemTitle": "MIRINDA ORANGE CAN 150ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/012000802751.png",
+                    "ItemPrice": "QAR2",
+                    "ItemBarcode": "012000802751"
+                },
+                {
+                    "ItemTitle": "MOUNTAIN DEW Soft Drinks 2.25L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/012000803871.png",
+                    "ItemPrice": "QAR7.50",
+                    "ItemBarcode": "012000803871"
+                },
+                {
+                    "ItemTitle": "COCA COLA Soft Drink Can 330ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5449000000996.jpg",
+                    "ItemPrice": "QAR2.25",
+                    "ItemBarcode": "5449000000996"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Juices",
+            "Products": [
+                {
+                    "ItemTitle": "YAMAMA Grenadine Molasses 300ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/623695000355.jpg",
+                    "ItemPrice": "QAR8.75",
+                    "ItemBarcode": "623695000355"
+                },
+                {
+                    "ItemTitle": "ARUBA DRINK ORANGE 750G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5285002190002.png",
+                    "ItemPrice": "QAR9",
+                    "ItemBarcode": "5285002190002"
+                },
+                {
+                    "ItemTitle": "ARUBA MANGO DRINK POWDER 750G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5285002190101.png",
+                    "ItemPrice": "QAR9",
+                    "ItemBarcode": "5285002190101"
+                },
+                {
+                    "ItemTitle": "ARUBA Tropical Drink Powder 750g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5285002190200.jpg",
+                    "ItemPrice": "QAR9",
+                    "ItemBarcode": "5285002190200"
+                },
+                {
+                    "ItemTitle": "DANDY FRUTTI ORANGE DRINK 225ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8044190073798.png",
+                    "ItemPrice": "QAR1",
+                    "ItemBarcode": "8044190073798"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Iced Tea & Coffee",
+            "Products": [
+                {
+                    "ItemTitle": "STARBUCKS Discoveries Seattle Latte 220ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5711953005251.jpg",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "5711953005251"
+                },
+                {
+                    "ItemTitle": "Starbucks Frappucino Coffee Drink Bottle 250ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5711953024290.jpg",
+                    "ItemPrice": "QAR10.75",
+                    "ItemBarcode": "5711953024290"
+                },
+                {
+                    "ItemTitle": "NESCAFE Ice Coffee Latte 240ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9556001119926.jpg",
+                    "ItemPrice": "QAR3.25",
+                    "ItemBarcode": "9556001119926"
+                },
+                {
+                    "ItemTitle": "NESCAFE Iced Coffee Mocha 240ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9556001119858.jpg",
+                    "ItemPrice": "QAR3.25",
+                    "ItemBarcode": "9556001119858"
+                },
+                {
+                    "ItemTitle": "Starbucks Frappucino Coffee Drink Caramel Flavour Bottle 250ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5711953041020.jpg",
+                    "ItemPrice": "QAR10.75",
+                    "ItemBarcode": "5711953041020"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Malt Beverages",
+            "Products": [
+                {
+                    "ItemTitle": "EFES MALT DRINK NON ALCOHOL 330ML",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690520519629.jpg",
+                    "ItemPrice": "QAR4",
+                    "ItemBarcode": "8690520519629"
+                },
+                {
+                    "ItemTitle": "SHAMS Non-Alcoholic Beverage Classic 320ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6268615900663.png",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "6268615900663"
+                },
+                {
+                    "ItemTitle": "MOOD Malt Drink Strawberry 330ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6253504210145.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "6253504210145"
+                },
+                {
+                    "ItemTitle": "MOOD Malt Drink Cherry 330ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6253504210183.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "6253504210183"
+                },
+                {
+                    "ItemTitle": "MOOD Malt Drink Peach 330ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6253504210176.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "6253504210176"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "CategoryTitle": "Fruits & Vegetables",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Fruits",
+            "Products": [
+                {
+                    "ItemTitle": "Coconut India (per piece)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910019000001.png",
+                    "ItemPrice": "QAR2.50",
+                    "ItemBarcode": "9910019000001"
+                },
+                {
+                    "ItemTitle": "Apple Pink Lady New Zealand (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910025000001.jpg",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "9910025000001"
+                },
+                {
+                    "ItemTitle": "Grapefruit South Africa (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910028000001.png",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "9910028000001"
+                },
+                {
+                    "ItemTitle": "WATERMELON BABY IMP",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910487000001.png",
+                    "ItemPrice": "QAR24.75",
+                    "ItemBarcode": "9910487000001"
+                },
+                {
+                    "ItemTitle": "Nectarine White Australia Per KG",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910495000001.png",
+                    "ItemPrice": "QAR28",
+                    "ItemBarcode": "9910495000001"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Vegetables",
+            "Products": [
+                {
+                    "ItemTitle": "Capsicum Red Holland (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910480000001.jpg",
+                    "ItemPrice": "QAR25.50",
+                    "ItemBarcode": "9910480000001"
+                },
+                {
+                    "ItemTitle": "Capsicum Yellow Holland (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910481000001.png",
+                    "ItemPrice": "QAR25.50",
+                    "ItemBarcode": "9910481000001"
+                },
+                {
+                    "ItemTitle": "Capsicum Orange Holland (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910482000001.jpg",
+                    "ItemPrice": "QAR26.50",
+                    "ItemBarcode": "9910482000001"
+                },
+                {
+                    "ItemTitle": "BROCCOLI  IMP (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910503000001.jpg",
+                    "ItemPrice": "QAR29.50",
+                    "ItemBarcode": "9910503000001"
+                },
+                {
+                    "ItemTitle": "Carrot Australia (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910515000001.jpg",
+                    "ItemPrice": "QAR5",
+                    "ItemBarcode": "9910515000001"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Dried Fruits",
+            "Products": [
+                {
+                    "ItemTitle": "Magdool Dates USA Kg Per KG",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9911356000001.jpg",
+                    "ItemPrice": "QAR85",
+                    "ItemBarcode": "9911356000001"
+                },
+                {
+                    "ItemTitle": "Sweet Tamarind Box Thailand Per PCS",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910125000001.jpg",
+                    "ItemPrice": "QAR26.50",
+                    "ItemBarcode": "9910125000001"
+                },
+                {
+                    "ItemTitle": "Chest Nut China (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910014000001.jpg",
+                    "ItemPrice": "QAR16.75",
+                    "ItemBarcode": "9910014000001"
+                },
+                {
+                    "ItemTitle": "Fresh Green Almond (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9910473000001.jpg",
+                    "ItemPrice": "QAR37",
+                    "ItemBarcode": "9910473000001"
+                },
+                {
+                    "ItemTitle": "Fresh Dates Lebanon (Per Kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9911623000001.jpg",
+                    "ItemPrice": "QAR43",
+                    "ItemBarcode": "9911623000001"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "CategoryTitle": "Frozen Food",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/FrozenFood_2.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Poultry",
+            "Products": [
+                {
+                    "ItemTitle": "AL SAFFA Frozen Whole Chicken 1000g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291101360023.jpg",
+                    "ItemPrice": "QAR13.50",
+                    "ItemBarcode": "6291101360023"
+                },
+                {
+                    "ItemTitle": "AL SAFFA  Frozen Chicken 1100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291101360030.jpg",
+                    "ItemPrice": "QAR16.50",
+                    "ItemBarcode": "6291101360030"
+                },
+                {
+                    "ItemTitle": "AL SAFFA Frozen Chicken 1200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291101360047.jpg",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "6291101360047"
+                },
+                {
+                    "ItemTitle": "SADIA Chicken Breast Boneless 450g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7891515465520.jpg",
+                    "ItemPrice": "QAR12.75",
+                    "ItemBarcode": "7891515465520"
+                },
+                {
+                    "ItemTitle": "SADIA Frozen Chicken Drumstick 900g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7893000457485.jpg",
+                    "ItemPrice": "QAR18.50",
+                    "ItemBarcode": "7893000457485"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Breaded Chicken",
+            "Products": [
+                {
+                    "ItemTitle": "AL KABEER Chicken Zing LolliPop 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5033712464407.jpg",
+                    "ItemPrice": "QAR46",
+                    "ItemBarcode": "5033712464407"
+                },
+                {
+                    "ItemTitle": "AMERICANA Chicken Nuggets 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050114075.jpg",
+                    "ItemPrice": "QAR14.50",
+                    "ItemBarcode": "6281050114075"
+                },
+                {
+                    "ItemTitle": "AMERICANA Chicken Popcorn 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050114402.png",
+                    "ItemPrice": "QAR15.75",
+                    "ItemBarcode": "6281050114402"
+                },
+                {
+                    "ItemTitle": "AMERICANA Chicken Strips 750g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050114891.png",
+                    "ItemPrice": "QAR23",
+                    "ItemBarcode": "6281050114891"
+                },
+                {
+                    "ItemTitle": "AMERICANA Chicken Strips Spicy 750g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050114938.png",
+                    "ItemPrice": "QAR23.75",
+                    "ItemBarcode": "6281050114938"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Ready Meals",
+            "Products": [
+                {
+                    "ItemTitle": "PINAR BOREK MEAT ROLLS 500G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690527110638.png",
+                    "ItemPrice": "QAR16",
+                    "ItemBarcode": "8690527110638"
+                },
+                {
+                    "ItemTitle": "MEEMAS KUBBA  10PCS  350G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8044197014220.png",
+                    "ItemPrice": "QAR25",
+                    "ItemBarcode": "8044197014220"
+                },
+                {
+                    "ItemTitle": "MEEMAS KUBBA 12PCS  400G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8044197014442.png",
+                    "ItemPrice": "QAR25",
+                    "ItemBarcode": "8044197014442"
+                },
+                {
+                    "ItemTitle": "SUPER FRESH MINI PITA WITH CHEESE 400G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8690612503239.jpg",
+                    "ItemPrice": "QAR14.75",
+                    "ItemBarcode": "8690612503239"
+                },
+                {
+                    "ItemTitle": "NABIL Cheese Sambousik  300g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6251010080146.png",
+                    "ItemPrice": "QAR17.50",
+                    "ItemBarcode": "6251010080146"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pastry",
+            "Products": [
+                {
+                    "ItemTitle": "SWITZ Samosa Leaves 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8906018140047.png",
+                    "ItemPrice": "QAR8.50",
+                    "ItemBarcode": "8906018140047"
+                },
+                {
+                    "ItemTitle": "SWITZ Samosa Leaves 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8906018143949.png",
+                    "ItemPrice": "QAR14.50",
+                    "ItemBarcode": "8906018143949"
+                },
+                {
+                    "ItemTitle": "SPRING HOME PASTRY PLAIN10s",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8888003250309.png",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "8888003250309"
+                },
+                {
+                    "ItemTitle": "SPRING HOME PASTRY 8.5 215MM",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8888003215407.png",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "8888003215407"
+                },
+                {
+                    "ItemTitle": "SPRING HOME PASTRY 5 50SHTS",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8888003125508.png",
+                    "ItemPrice": "QAR5.50",
+                    "ItemBarcode": "8888003125508"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Fruits & Vegetables",
+            "Products": [
+                {
+                    "ItemTitle": "WATTIES Frozen Green Beans 450g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9300657782771.png",
+                    "ItemPrice": "QAR7.50",
+                    "ItemBarcode": "9300657782771"
+                },
+                {
+                    "ItemTitle": "WATTIES Frozen Broad Beans 900g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9300657787813.png",
+                    "ItemPrice": "QAR14.25",
+                    "ItemBarcode": "9300657787813"
+                },
+                {
+                    "ItemTitle": "CHTAURA Frozen Baby Okra 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/603388496030_1.jpg",
+                    "ItemPrice": "QAR9",
+                    "ItemBarcode": "603388496030"
+                },
+                {
+                    "ItemTitle": "CHTAURA Orka Extra Zero 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/603388498034.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "603388498034"
+                },
+                {
+                    "ItemTitle": "GREEN GIANT Frozen Sweet Corn 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/020000124957.jpg",
+                    "ItemPrice": "QAR17.50",
+                    "ItemBarcode": "020000124957"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Meat & Seafood",
+            "Products": [
+                {
+                    "ItemTitle": "GOURMET MINCED BEEF 450G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/0705632217511.png",
+                    "ItemPrice": "QAR13",
+                    "ItemBarcode": "0705632217511"
+                },
+                {
+                    "ItemTitle": "AL KABEER Shrimps Large 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5033712140073.png",
+                    "ItemPrice": "QAR21",
+                    "ItemBarcode": "5033712140073"
+                },
+                {
+                    "ItemTitle": "TABARRUK COOKING SHRIMPS 500G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5033712740020.png",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "5033712740020"
+                },
+                {
+                    "ItemTitle": "Siblou Tempura Shrimps 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5285000830504.jpg",
+                    "ItemPrice": "QAR27.75",
+                    "ItemBarcode": "5285000830504"
+                },
+                {
+                    "ItemTitle": "Siblou Frozen Shrimp Super Jumbo 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5285000830764.png",
+                    "ItemPrice": "QAR105",
+                    "ItemBarcode": "5285000830764"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Burgers & Franks",
+            "Products": [
+                {
+                    "ItemTitle": "AMERICANA  BURGER SPICES 1344G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050113030.png",
+                    "ItemPrice": "QAR36.75",
+                    "ItemBarcode": "6281050113030"
+                },
+                {
+                    "ItemTitle": "AMERICANA ARABIC BURGER 1120G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050113078.png",
+                    "ItemPrice": "QAR24",
+                    "ItemBarcode": "6281050113078"
+                },
+                {
+                    "ItemTitle": "AMERICANA Jumbo Burger 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050113207.png",
+                    "ItemPrice": "QAR25",
+                    "ItemBarcode": "6281050113207"
+                },
+                {
+                    "ItemTitle": "AMERICANA BEEF BURGER 1KG",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050113290.png",
+                    "ItemPrice": "QAR21.50",
+                    "ItemBarcode": "6281050113290"
+                },
+                {
+                    "ItemTitle": "AMERICANA Beef Meat Balls 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281050115034.png",
+                    "ItemPrice": "QAR12.50",
+                    "ItemBarcode": "6281050115034"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "French Fries",
+            "Products": [
+                {
+                    "ItemTitle": "McCAIN Super Spirals 1.5Kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/055773080940.jpg",
+                    "ItemPrice": "QAR22.50",
+                    "ItemBarcode": "055773080940"
+                },
+                {
+                    "ItemTitle": "McCAIN Traditional French Fries Straight Cut 750g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8710438040227.jpg",
+                    "ItemPrice": "QAR11",
+                    "ItemBarcode": "8710438040227"
+                },
+                {
+                    "ItemTitle": "McCAIN Tradition Frozen French Fries Straight Cut 1.5kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8710438040241.jpg",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "8710438040241"
+                },
+                {
+                    "ItemTitle": "McCAIN French Fries Golden Long 750g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8710438040265.jpg",
+                    "ItemPrice": "QAR12.25",
+                    "ItemBarcode": "8710438040265"
+                },
+                {
+                    "ItemTitle": "McCAIN Golden Longs Frozen French Fries (Long & Thin Cut) 1.5kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8710438040289.jpg",
+                    "ItemPrice": "QAR22.50",
+                    "ItemBarcode": "8710438040289"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Ice Cream",
+            "Products": [
+                {
+                    "ItemTitle": "KDD ICE CREAM CONE CRUNCHY 24S 265G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271002302629.jpg",
+                    "ItemPrice": "QAR14.50",
+                    "ItemBarcode": "6271002302629"
+                },
+                {
+                    "ItemTitle": "KDD ICE CREAM CONE CRUNCHY CUP 24S 108G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271002302605.jpg",
+                    "ItemPrice": "QAR12.50",
+                    "ItemBarcode": "6271002302605"
+                },
+                {
+                    "ItemTitle": "BASKIN ROBBINS  ICE CREAM CHOCOLATE 1L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/036631079719.png",
+                    "ItemPrice": "QAR43.75",
+                    "ItemBarcode": "036631079719"
+                },
+                {
+                    "ItemTitle": "BASKIN ROBBINS ICE CREAM VANILA 2L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/036631080708.png",
+                    "ItemPrice": "QAR75",
+                    "ItemBarcode": "036631080708"
+                },
+                {
+                    "ItemTitle": "Baskin Robbins Very Berry Strawberry Ice Cream Pack 500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/036631083426.jpg",
+                    "ItemPrice": "QAR25.25",
+                    "ItemBarcode": "036631083426"
+                }
+            ]
+        }
+    ]
+}

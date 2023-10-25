@@ -1,0 +1,356 @@
+{
+    "CategoryTitle": "Condiments",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Oil & Ghee",
+            "Products": [
+                {
+                    "ItemTitle": "RS Olive Oil Extra Virgin 4L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8420701103077.jpg",
+                    "ItemPrice": "QAR104",
+                    "ItemBarcode": "8420701103077"
+                },
+                {
+                    "ItemTitle": "RS Spanish Olive Oil 400ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8420701103084.png",
+                    "ItemPrice": "QAR14.50",
+                    "ItemBarcode": "8420701103084"
+                },
+                {
+                    "ItemTitle": "RS Spanish Olive Oil 800ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8420701103091.png",
+                    "ItemPrice": "QAR28",
+                    "ItemBarcode": "8420701103091"
+                },
+                {
+                    "ItemTitle": "RS Olive Oil  500ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8420701103435.jpg",
+                    "ItemPrice": "QAR13.25",
+                    "ItemBarcode": "8420701103435"
+                },
+                {
+                    "ItemTitle": "RS Olive Oil 2L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8420701103466.png",
+                    "ItemPrice": "QAR57",
+                    "ItemBarcode": "8420701103466"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Cooking Sauces",
+            "Products": [
+                {
+                    "ItemTitle": "MAGGI Coconut Milk Powder Mix 150g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4792024000109.jpg",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "4792024000109"
+                },
+                {
+                    "ItemTitle": "Maggi Coconut Milk Powder 1Kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4792024000130.jpg",
+                    "ItemPrice": "QAR35",
+                    "ItemBarcode": "4792024000130"
+                },
+                {
+                    "ItemTitle": "KIKKOMAN Soy Sauce 600ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4901515118487.jpg",
+                    "ItemPrice": "QAR15.25",
+                    "ItemBarcode": "4901515118487"
+                },
+                {
+                    "ItemTitle": "KIKKOMAN Soy Sauce 250ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4901515118944.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "4901515118944"
+                },
+                {
+                    "ItemTitle": "MODERN FOOD Coconut Powder 750g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000004038.jpg",
+                    "ItemPrice": "QAR14.25",
+                    "ItemBarcode": "5100000004038"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pasta & Pizza Sauces",
+            "Products": [
+                {
+                    "ItemTitle": "AL AHLAM Tomato Paste 660g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6210701986518.jpg",
+                    "ItemPrice": "QAR8.50",
+                    "ItemBarcode": "6210701986518"
+                },
+                {
+                    "ItemTitle": "KDD Tomato Paste 135g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6271002270119.png",
+                    "ItemPrice": "QAR1.75",
+                    "ItemBarcode": "6271002270119"
+                },
+                {
+                    "ItemTitle": "Prego Italian Sauce Tomato, Onion & Garlic 680g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/051000012142.jpg",
+                    "ItemPrice": "QAR21.50",
+                    "ItemBarcode": "051000012142"
+                },
+                {
+                    "ItemTitle": "YAMAMA LEBANON TOMATO PASTE 320 gm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5281099110114.png",
+                    "ItemPrice": "QAR5.25",
+                    "ItemBarcode": "5281099110114"
+                },
+                {
+                    "ItemTitle": "YAMAMA Tomato Paste 660g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5281099110121.jpg",
+                    "ItemPrice": "QAR9.50",
+                    "ItemBarcode": "5281099110121"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Herbs & Seasonings",
+            "Products": [
+                {
+                    "ItemTitle": "BAYARA Chicken Seasoning 75g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3434410013591.jpg",
+                    "ItemPrice": "QAR5.50",
+                    "ItemBarcode": "3434410013591"
+                },
+                {
+                    "ItemTitle": "HYDEPARK Black Limon 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000001013.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "5100000001013"
+                },
+                {
+                    "ItemTitle": "Modern Food Centre Dry Lemon 300g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000004846.jpg",
+                    "ItemPrice": "QAR12.25",
+                    "ItemBarcode": "5100000004846"
+                },
+                {
+                    "ItemTitle": "NAKHEEL Spices Coriander Powder 250g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5255010122548.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "5255010122548"
+                },
+                {
+                    "ItemTitle": "EMPIRE GOLD Madras Curry Powder 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6298044047271.jpg",
+                    "ItemPrice": "QAR10.50",
+                    "ItemBarcode": "6298044047271"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Massala",
+            "Products": [
+                {
+                    "ItemTitle": "SAFE GARAM MASALA WHOLE 200G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5255010119487.jpg",
+                    "ItemPrice": "QAR8.75",
+                    "ItemBarcode": "5255010119487"
+                },
+                {
+                    "ItemTitle": "CAMEL Madras Curry Powder 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901552003131.png",
+                    "ItemPrice": "QAR10.25",
+                    "ItemBarcode": "8901552003131"
+                },
+                {
+                    "ItemTitle": "Modern Food Centre Garam Masala 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4990000003704.jpg",
+                    "ItemPrice": "QAR10.75",
+                    "ItemBarcode": "4990000003704"
+                },
+                {
+                    "ItemTitle": "ALWASMEE KHALTA 150G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/1301201620066.jpg",
+                    "ItemPrice": "QAR39",
+                    "ItemBarcode": "1301201620066"
+                },
+                {
+                    "ItemTitle": "MEHRAN SEVEN SPICES JAR 100G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/0633152022394.jpg",
+                    "ItemPrice": "QAR9",
+                    "ItemBarcode": "633152022394"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Spices",
+            "Products": [
+                {
+                    "ItemTitle": "AMEERA Garlic Powder 300g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8044190006161.png",
+                    "ItemPrice": "QAR13.25",
+                    "ItemBarcode": "8044190006161"
+                },
+                {
+                    "ItemTitle": "AMEERA Turmeric Powder 300g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8044190006208.jpg",
+                    "ItemPrice": "QAR10.75",
+                    "ItemBarcode": "8044190006208"
+                },
+                {
+                    "ItemTitle": "Spanish Saffron Super 4g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4000010026324.jpg",
+                    "ItemPrice": "QAR93",
+                    "ItemBarcode": "4000010026324"
+                },
+                {
+                    "ItemTitle": "SAFFRON EDMAN 2g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6260249971606.jpg",
+                    "ItemPrice": "QAR26",
+                    "ItemBarcode": "6260249971606"
+                },
+                {
+                    "ItemTitle": "Saffron Edman 3g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6260249928006.jpg",
+                    "ItemPrice": "QAR60",
+                    "ItemBarcode": "6260249928006"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Salt",
+            "Products": [
+                {
+                    "ItemTitle": "NEZO Pure Salt Iodized 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/87158311.jpg",
+                    "ItemPrice": "QAR3.50",
+                    "ItemBarcode": "87158311"
+                },
+                {
+                    "ItemTitle": "NEZO Salt Low Sodium 600g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8715800000410.jpg",
+                    "ItemPrice": "QAR14",
+                    "ItemBarcode": "8715800000410"
+                },
+                {
+                    "ItemTitle": "DAILY FRESH Iodized Salt 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291023107270.png",
+                    "ItemPrice": "QAR1.75",
+                    "ItemBarcode": "6291023107270"
+                },
+                {
+                    "ItemTitle": "MIZO Refined Iodized Salt  1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/1130701068807.png",
+                    "ItemPrice": "QAR1.75",
+                    "ItemBarcode": "1130701068807"
+                },
+                {
+                    "ItemTitle": "FINE Salt 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901444036506.png",
+                    "ItemPrice": "QAR1.50",
+                    "ItemBarcode": "8901444036506"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Mash & Crumbs",
+            "Products": [
+                {
+                    "ItemTitle": "KNORR  Kabsa Mix 30g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6281006794467.jpg",
+                    "ItemPrice": "QAR5",
+                    "ItemBarcode": "6281006794467"
+                },
+                {
+                    "ItemTitle": "KNORR Coating Mix 80g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/62811699.jpg",
+                    "ItemPrice": "QAR4.75",
+                    "ItemBarcode": "62811699"
+                },
+                {
+                    "ItemTitle": "KOREAN BAKERY Bread Crumbs 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6291105900249.png",
+                    "ItemPrice": "QAR5",
+                    "ItemBarcode": "6291105900249"
+                },
+                {
+                    "ItemTitle": "ARIRANG BREAD CRUMBS 400G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8905475821460.jpg",
+                    "ItemPrice": "QAR5",
+                    "ItemBarcode": "8905475821460"
+                },
+                {
+                    "ItemTitle": "AMERICAN GARDEN Plain Bread Crumbs 227 g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/717273501508.jpg",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "717273501508"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Olives & Pickles",
+            "Products": [
+                {
+                    "ItemTitle": "CRESPO Green Olives Whole Tin 397g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3076820002033.jpg",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "3076820002033"
+                },
+                {
+                    "ItemTitle": "Crespo Black Olives Whole Tin 397g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3076820002040.jpg",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "3076820002040"
+                },
+                {
+                    "ItemTitle": "CRESPO Green Olives Whole 907g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3076820004174.jpg",
+                    "ItemPrice": "QAR14.75",
+                    "ItemBarcode": "3076820004174"
+                },
+                {
+                    "ItemTitle": "CRESPO Green Olives Whole 354g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/3076820005164.jpg",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "3076820005164"
+                },
+                {
+                    "ItemTitle": "ALAM APICKLE MIX 950 G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4900001033631.jpg",
+                    "ItemPrice": "QAR38.50",
+                    "ItemBarcode": "4900001033631"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Sauces & Dressings",
+            "Products": [
+                {
+                    "ItemTitle": "TABASCO Pepper Sauce 350ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/011210000124.jpg",
+                    "ItemPrice": "QAR27",
+                    "ItemBarcode": "011210000124"
+                },
+                {
+                    "ItemTitle": "TABASCO Pepper Sauce 150ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/011210000698.jpg",
+                    "ItemPrice": "QAR16.50",
+                    "ItemBarcode": "011210000698"
+                },
+                {
+                    "ItemTitle": "TABASCO Jalapeno Sauce 60ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/011210009530.jpg",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "011210009530"
+                },
+                {
+                    "ItemTitle": "TABASCO Pepper Sauce 60ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/011210600133.jpg",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "011210600133"
+                },
+                {
+                    "ItemTitle": "CRYSTAL Hot Sauce 474ml",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/048400803005.jpg",
+                    "ItemPrice": "QAR6.25",
+                    "ItemBarcode": "048400803005"
+                }
+            ]
+        }
+    ]
+}

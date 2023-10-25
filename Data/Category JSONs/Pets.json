@@ -1,0 +1,163 @@
+{
+    "CategoryTitle": "Pets",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/Pet%20World-02_1.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Pet Food-Cat",
+            "Products": [
+                {
+                    "ItemTitle": "WHISKAS Cat Wet Food Chicken In Gravy 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310022906701.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "9310022906701"
+                },
+                {
+                    "ItemTitle": "WHISKAS Cat Wet Food Lamb, Turkey And Vegetables In Gravy 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310022907609.jpg",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "9310022907609"
+                },
+                {
+                    "ItemTitle": "KITEKAT Dry Food for Cats Tuna 1.4kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8853301150637.jpg",
+                    "ItemPrice": "QAR27",
+                    "ItemBarcode": "8853301150637"
+                },
+                {
+                    "ItemTitle": "KITEKAT Mackerel Flavour Dry Food for Cats Pag 1.4kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8853301150668.jpg",
+                    "ItemPrice": "QAR27",
+                    "ItemBarcode": "8853301150668"
+                },
+                {
+                    "ItemTitle": "WHISKAS Cat Food Chicken 480g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6914973308282.png",
+                    "ItemPrice": "QAR13",
+                    "ItemBarcode": "6914973308282"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pet Food-Dog",
+            "Products": [
+                {
+                    "ItemTitle": "PEDIGREE Dog Food Original 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310022877605.png",
+                    "ItemPrice": "QAR8",
+                    "ItemBarcode": "9310022877605"
+                },
+                {
+                    "ItemTitle": "Pedigree Dog Wet Food Lamb 400g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310022877803.jpg",
+                    "ItemPrice": "QAR7.50",
+                    "ItemBarcode": "9310022877803"
+                },
+                {
+                    "ItemTitle": "Pedigree Chicken and Vegetables Dry Food for Adult Dog 3kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9334214022963.jpg",
+                    "ItemPrice": "QAR47",
+                    "ItemBarcode": "9334214022963"
+                },
+                {
+                    "ItemTitle": "Pedigree Beef and Vegetables Dry Food for Adult Dog 3kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9334214022932.jpg",
+                    "ItemPrice": "QAR42.75",
+                    "ItemBarcode": "9334214022932"
+                },
+                {
+                    "ItemTitle": "Pedigree Biscrok Dog food Multi Mix 200g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9003579302545_1.jpg",
+                    "ItemPrice": "QAR12",
+                    "ItemBarcode": "9003579302545"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pet Food-Birds",
+            "Products": [
+                {
+                    "ItemTitle": "TRILL Finch Seed Mix 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310012800057.jpg",
+                    "ItemPrice": "QAR11",
+                    "ItemBarcode": "9310012800057"
+                },
+                {
+                    "ItemTitle": "Trill Canary Seed Mix 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310012774297.jpg",
+                    "ItemPrice": "QAR11",
+                    "ItemBarcode": "9310012774297"
+                },
+                {
+                    "ItemTitle": "Trill Parrot Seed Mix 1Kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310012775294.jpg",
+                    "ItemPrice": "QAR19.75",
+                    "ItemBarcode": "9310012775294"
+                },
+                {
+                    "ItemTitle": "King Arabian Spices Bird Food 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4990000000475.jpg",
+                    "ItemPrice": "QAR5.50",
+                    "ItemBarcode": "4990000000475"
+                },
+                {
+                    "ItemTitle": "Prestige Parrots Pet Food For Birds 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5410340217955.jpg",
+                    "ItemPrice": "QAR17.25",
+                    "ItemBarcode": "5410340217955"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Toys & Accessories",
+            "Products": [
+                {
+                    "ItemTitle": "SNAPPY TOM Cat Litter Lava 2kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9310768060187.jpg",
+                    "ItemPrice": "QAR31",
+                    "ItemBarcode": "9310768060187"
+                },
+                {
+                    "ItemTitle": "Bird Food Mix 1Kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/2000002802518.jpg",
+                    "ItemPrice": "QAR11.50",
+                    "ItemBarcode": "2000002802518"
+                },
+                {
+                    "ItemTitle": "SNAPPY TOM Cat Litter Crystal Clean 2kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/snappy-tom-4kg.jpg",
+                    "ItemPrice": "QAR31",
+                    "ItemBarcode": "9310768056784"
+                },
+                {
+                    "ItemTitle": "Cat Litter Lavander Fragrance 5kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8908005235064.jpeg",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "8908005235064"
+                },
+                {
+                    "ItemTitle": "THOMAS Cat Litter 10kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5000166004404.jpg",
+                    "ItemPrice": "QAR48",
+                    "ItemBarcode": "5000166004404"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Pet Food-Other",
+            "Products": [
+                {
+                    "ItemTitle": "SMARTHEART Rabbit Food - Veggies And Cereal 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8850477849013.jpg",
+                    "ItemPrice": "QAR11",
+                    "ItemBarcode": "8850477849013"
+                },
+                {
+                    "ItemTitle": "SMARTHEART Rabbit Food - Raspberry Flavor 1kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8850477857018.jpg",
+                    "ItemPrice": "QAR11",
+                    "ItemBarcode": "8850477857018"
+                }
+            ]
+        }
+    ]
+}

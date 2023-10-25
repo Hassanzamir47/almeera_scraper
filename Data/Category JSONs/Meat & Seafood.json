@@ -1,0 +1,146 @@
+{
+    "CategoryTitle": "Meat & Seafood",
+    "CategoryImageURL": null,
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Chicken",
+            "Products": [
+                {
+                    "ItemTitle": "MAZZRATY Fresh Whole Chicken Legs 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/0710535010619.jpg",
+                    "ItemPrice": "QAR11.75",
+                    "ItemBarcode": "0710535010619"
+                },
+                {
+                    "ItemTitle": "AL WAHA Fresh Chicken 900g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/2000000586526.png",
+                    "ItemPrice": "QAR18.25",
+                    "ItemBarcode": "2000000586526"
+                },
+                {
+                    "ItemTitle": "AL WAHA Chicken Whole Legs 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/2000005045332.jpg",
+                    "ItemPrice": "QAR10.75",
+                    "ItemBarcode": "2000005045332"
+                },
+                {
+                    "ItemTitle": "AL WAHA Fresh Chicken Breast Fillet 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/2100000012107.jpg",
+                    "ItemPrice": "QAR24.25",
+                    "ItemBarcode": "2100000012107"
+                },
+                {
+                    "ItemTitle": "AL WAHA Fresh Chicken 1000g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/2000000606408_1.jpg",
+                    "ItemPrice": "QAR20.25",
+                    "ItemBarcode": "2000000606408"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Beef & Veal",
+            "Products": [
+                {
+                    "ItemTitle": "QUSAIMI Minced Beef 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000011663.jpg",
+                    "ItemPrice": "QAR14.50",
+                    "ItemBarcode": "6300900710004"
+                },
+                {
+                    "ItemTitle": "Beef Cubes Low Fat Australia (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9912951000000.jpg",
+                    "ItemPrice": "QAR46.75",
+                    "ItemBarcode": "9912951000000"
+                },
+                {
+                    "ItemTitle": "Beef Cube Low Fat RSA (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9912391000000.jpg",
+                    "ItemPrice": "QAR41.75",
+                    "ItemBarcode": "9912391000000"
+                },
+                {
+                    "ItemTitle": "Beef Mince Australia (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9912532000000.jpg",
+                    "ItemPrice": "QAR39.75",
+                    "ItemBarcode": "9912532000000"
+                },
+                {
+                    "ItemTitle": "Beef Mince Brazil (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9912265000000_1.jpg",
+                    "ItemPrice": "QAR22.75",
+                    "ItemBarcode": "9912265000000"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Lamb",
+            "Products": [
+                {
+                    "ItemTitle": "QUSAIMI Mutton Mince 500g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000011662.jpg",
+                    "ItemPrice": "QAR16",
+                    "ItemBarcode": "6300900710011"
+                },
+                {
+                    "ItemTitle": "Lamb Leg Boneless (VAC) @Australia (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9912259000000.jpg",
+                    "ItemPrice": "QAR55.75",
+                    "ItemBarcode": "9912259000000"
+                },
+                {
+                    "ItemTitle": "Lamb Leg - Australia (Per Kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9912609000000.jpg",
+                    "ItemPrice": "QAR38.75",
+                    "ItemBarcode": "9912609000000"
+                },
+                {
+                    "ItemTitle": "Lamb Leg -Arabic (Per Kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9912955000000.jpg",
+                    "ItemPrice": "QAR67.75",
+                    "ItemBarcode": "9912955000000"
+                },
+                {
+                    "ItemTitle": "Lamb Leg - Syria (Per Kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9912302000000.jpg",
+                    "ItemPrice": "QAR68.75",
+                    "ItemBarcode": "9912302000000"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Seafood",
+            "Products": [
+                {
+                    "ItemTitle": "OCEAN FISH Norway Smoked Salmon 100g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9501100282859.jpg",
+                    "ItemPrice": "QAR28",
+                    "ItemBarcode": "9501100282859"
+                },
+                {
+                    "ItemTitle": "RENNA CUTTLEFISHES IN OIL 200G",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8008177010879.jpg",
+                    "ItemPrice": "QAR42",
+                    "ItemBarcode": "8008177010879"
+                },
+                {
+                    "ItemTitle": "Coffer Local (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913016000000.jpg",
+                    "ItemPrice": "QAR17",
+                    "ItemBarcode": "9913016000000"
+                },
+                {
+                    "ItemTitle": "Faskar Medium (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913012000000.jpg",
+                    "ItemPrice": "QAR21",
+                    "ItemBarcode": "9913012000000"
+                },
+                {
+                    "ItemTitle": "Hamour Fillet (per kg)",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9913162000000.jpg",
+                    "ItemPrice": "QAR149",
+                    "ItemBarcode": "9913162000000"
+                }
+            ]
+        }
+    ]
+}

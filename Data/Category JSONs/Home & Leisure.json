@@ -1,0 +1,356 @@
+{
+    "CategoryTitle": "Home & Leisure",
+    "CategoryImageURL": "https://almeera.online/images/category_banner/Appliances-04_1.jpg",
+    "Subcategories": [
+        {
+            "SubcategoryTitle": "Party Items",
+            "Products": [
+                {
+                    "ItemTitle": "Balloon Manual Air Pump",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6933368165705.jpg",
+                    "ItemPrice": "QAR9.75",
+                    "ItemBarcode": "6933368165705"
+                },
+                {
+                    "ItemTitle": "Birthday Candle No. 2",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9997444410452.jpg",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "9997444410452"
+                },
+                {
+                    "ItemTitle": "Birthday Candle No. 4",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9997444410476.jpg",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "9997444410476"
+                },
+                {
+                    "ItemTitle": "Birthday Candle No. 5",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9997444410483.jpg",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "9997444410483"
+                },
+                {
+                    "ItemTitle": "Birthday Candle No. 7",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9997444410506.jpg",
+                    "ItemPrice": "QAR3",
+                    "ItemBarcode": "9997444410506"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Automotive",
+            "Products": [
+                {
+                    "ItemTitle": "High Temperature Resistant Automotive Foam Tape",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000005935.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "5100000005935"
+                },
+                {
+                    "ItemTitle": "AL ANSARI TOW ROPE HEAVY DUTY",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000005921.jpg",
+                    "ItemPrice": "QAR69",
+                    "ItemBarcode": "5100000005921"
+                },
+                {
+                    "ItemTitle": "BOOSTER CABLE 500AMP",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7861101119816.jpg",
+                    "ItemPrice": "QAR26",
+                    "ItemBarcode": "7861101119816"
+                },
+                {
+                    "ItemTitle": "CAR COOL Radiator Coolant 5L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7861101117249.jpg",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "7861101117249"
+                },
+                {
+                    "ItemTitle": "ANSARI STEERING COVER MASSGE",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000005900.jpg",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "5100000005900"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Camping",
+            "Products": [
+                {
+                    "ItemTitle": "TAJ Charcoal 10kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/1777221070026.png",
+                    "ItemPrice": "QAR60",
+                    "ItemBarcode": "1777221070026"
+                },
+                {
+                    "ItemTitle": "THREE STAR Premium Quality Charcoal 80pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/177722110022_1.png",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "177722110022"
+                },
+                {
+                    "ItemTitle": "BLOR Japan Coal Original 96pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4971833032123.jpg",
+                    "ItemPrice": "QAR45",
+                    "ItemBarcode": "4971833032123"
+                },
+                {
+                    "ItemTitle": "FLAMGO Lighter Cubes 285g",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5701304242459.jpg",
+                    "ItemPrice": "QAR21",
+                    "ItemBarcode": "5701304242459"
+                },
+                {
+                    "ItemTitle": "BBQ Grill Big",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/7515850025583.jpg",
+                    "ItemPrice": "QAR24",
+                    "ItemBarcode": "7515850025583"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Kitchen, Cooking & Dining",
+            "Products": [
+                {
+                    "ItemTitle": "WATER JUG WITH 4PC GLASS SET",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/4999900003449.png",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "4999900003449"
+                },
+                {
+                    "ItemTitle": "L&L FOOD CONTAINER 1.6L HPL824",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8803733182409.png",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "8803733182409"
+                },
+                {
+                    "ItemTitle": "ROSE VACUUM FLASK 1.0L RS-1717-10-CF-A01",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6971703721452.jpg",
+                    "ItemPrice": "QAR69",
+                    "ItemBarcode": "6971703721452"
+                },
+                {
+                    "ItemTitle": "LOCK&LOCK Food Container 870ml x 3",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8803733028271.jpg",
+                    "ItemPrice": "QAR25",
+                    "ItemBarcode": "8803733028271"
+                },
+                {
+                    "ItemTitle": "L&L RND TFOOD CONTN 430ML 931L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8803733393102.png",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "8803733393102"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Home linen & Textiles",
+            "Products": [
+                {
+                    "ItemTitle": "SIROCCO BATH MAT 40X70CM LZW4070",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6227690140708.jpg",
+                    "ItemPrice": "QAR29",
+                    "ItemBarcode": "6227690140708"
+                },
+                {
+                    "ItemTitle": "Moonlight Foldable Foam Mattress 90x180x7cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/0745240090212.jpg",
+                    "ItemPrice": "QAR119",
+                    "ItemBarcode": "0745240090212"
+                },
+                {
+                    "ItemTitle": "RANKOUSSI Quilted Pillow 1000g 50x70cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/0745178059619.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "0745178059619"
+                },
+                {
+                    "ItemTitle": "AL DAR Quilted Pillow 700gsm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/0745178059626.jpg",
+                    "ItemPrice": "QAR13",
+                    "ItemBarcode": "0745178059626"
+                },
+                {
+                    "ItemTitle": "RANKOUSSI Single Bedding Set 3pc Cream",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/0764460631043.jpg",
+                    "ItemPrice": "QAR109",
+                    "ItemBarcode": "0764460631043"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Bathroom Accessories",
+            "Products": [
+                {
+                    "ItemTitle": "SIROCCO Toothbrush Holder",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6227691923287.png",
+                    "ItemPrice": "QAR7.75",
+                    "ItemBarcode": "6227691923287"
+                },
+                {
+                    "ItemTitle": "Style Soap Dispenser 5x7.8x18cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/1000064912195.jpg",
+                    "ItemPrice": "QAR28",
+                    "ItemBarcode": "1000064912195"
+                },
+                {
+                    "ItemTitle": "HOMEPRO Bubble Pot Brush",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8894222021422.jpg",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "8894222021422"
+                },
+                {
+                    "ItemTitle": "SIROCCO1FUNCT.SH.HEADWHT177286",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6227691772861.jpg",
+                    "ItemPrice": "QAR14.75",
+                    "ItemBarcode": "6227691772861"
+                },
+                {
+                    "ItemTitle": "Sirocco Soap Holder 1pcs",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6227691923904.jpg",
+                    "ItemPrice": "QAR5.75",
+                    "ItemBarcode": "6227691923904"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Garden & Outdoor",
+            "Products": [
+                {
+                    "ItemTitle": "ARISTO FLOWER POT 14INCH 3037",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8904114502790.jpg",
+                    "ItemPrice": "QAR15",
+                    "ItemBarcode": "8904114502790"
+                },
+                {
+                    "ItemTitle": "NATIONAL PLASTIC CHAIR MAGIC",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8904038701057.jpg",
+                    "ItemPrice": "QAR45",
+                    "ItemBarcode": "8904038701057"
+                },
+                {
+                    "ItemTitle": "Aifa Hedge Shear",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6939110714023.jpg",
+                    "ItemPrice": "QAR42",
+                    "ItemBarcode": "6939110714023"
+                },
+                {
+                    "ItemTitle": "Watering Plastic Can 12L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8005522276003.jpg",
+                    "ItemPrice": "QAR36",
+                    "ItemBarcode": "8005522276003"
+                },
+                {
+                    "ItemTitle": "Kasim Plastic Chair Small",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5100000000683.jpg",
+                    "ItemPrice": "QAR18",
+                    "ItemBarcode": "5100000000683"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Sports & Leisure",
+            "Products": [
+                {
+                    "ItemTitle": "BW AIR PUMP 36CM 62003",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6942138917802.jpg",
+                    "ItemPrice": "QAR20",
+                    "ItemBarcode": "6942138917802"
+                },
+                {
+                    "ItemTitle": "COLEMAN BRITE ICE PACK 10CL 5710M718",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/76501376371.jpg",
+                    "ItemPrice": "QAR6",
+                    "ItemBarcode": "076501376371"
+                },
+                {
+                    "ItemTitle": "MAGIC COLORED SAND BIG",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6935539600428.jpg",
+                    "ItemPrice": "QAR10",
+                    "ItemBarcode": "6935539600428"
+                },
+                {
+                    "ItemTitle": "SKIPPING ROPE 19-208",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/9997444412258.jpg",
+                    "ItemPrice": "QAR7",
+                    "ItemBarcode": "9997444412258"
+                },
+                {
+                    "ItemTitle": "YOGA Mat 68x24\"",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6158337569418.jpg",
+                    "ItemPrice": "QAR25",
+                    "ItemBarcode": "6158337569418"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Furniture & Home decor",
+            "Products": [
+                {
+                    "ItemTitle": "FOLLOW ME Wheeled Storage Box 70L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8694917001902.jpg",
+                    "ItemPrice": "QAR79",
+                    "ItemBarcode": "8694917001902"
+                },
+                {
+                    "ItemTitle": "FOLLOW ME Wheeled Storage Box 40L",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8694917001476.jpg",
+                    "ItemPrice": "QAR59",
+                    "ItemBarcode": "8694917001476"
+                },
+                {
+                    "ItemTitle": "Violet House Rattan Little Stool 0735",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8694313007355.jpg",
+                    "ItemPrice": "QAR12",
+                    "ItemBarcode": "8694313007355"
+                },
+                {
+                    "ItemTitle": "My Choice Storage Shelf 1335x385x405MM 20.20kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6282955100804.jpg",
+                    "ItemPrice": "QAR269",
+                    "ItemBarcode": "6282955100804"
+                },
+                {
+                    "ItemTitle": "MY CHOICE Book Shelf 1260x295x800MM 22kg",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/6282955100910.jpg",
+                    "ItemPrice": "QAR189",
+                    "ItemBarcode": "6282955100910"
+                }
+            ]
+        },
+        {
+            "SubcategoryTitle": "Fashion, Accessories & Luggage",
+            "Products": [
+                {
+                    "ItemTitle": "AMERICAN TOURISTER Hard Trolley Sky Black 55cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5400520058324.jpg",
+                    "ItemPrice": "QAR165",
+                    "ItemBarcode": "5400520058324"
+                },
+                {
+                    "ItemTitle": "AMERICAN TOURISTER Hard Trolley Sky Black 68cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5400520058331.jpg",
+                    "ItemPrice": "QAR219",
+                    "ItemBarcode": "5400520058331"
+                },
+                {
+                    "ItemTitle": "AMERICAN TOURISTER Hard Trolley Sky Black 78cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/5400520058348.jpg",
+                    "ItemPrice": "QAR279",
+                    "ItemBarcode": "5400520058348"
+                },
+                {
+                    "ItemTitle": "AMERICAN TOURISTER Jamaica Spinner Trolley Black 58cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901836139853.jpg",
+                    "ItemPrice": "QAR175",
+                    "ItemBarcode": "8901836139853"
+                },
+                {
+                    "ItemTitle": "AMERICAN TOURISTER Jamaica Spinner Trolley Maroon 58cm",
+                    "ItemImageURL": "https://almeera.online/var/images/product/200.220/8901836185119.jpg",
+                    "ItemPrice": "QAR175",
+                    "ItemBarcode": "8901836185119"
+                }
+            ]
+        }
+    ]
+}
